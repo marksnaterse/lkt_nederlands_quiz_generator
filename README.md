@@ -39,6 +39,19 @@ Het JSON-bestand bevat een lijst met vragen. Elke vraag kan een `domain` bevatte
 ]
 ```
 
+## 🚀 Deployen
+
+Om de app te deployen zodat anderen het kunnen gebruiken, kun je Streamlit Cloud gebruiken:
+
+1. Zorg dat je repository op GitHub staat (zoals gedaan).
+2. Ga naar [share.streamlit.io](https://share.streamlit.io).
+3. Log in met je GitHub account.
+4. Selecteer je repository: `marksnaterse/lkt_nederlands_quiz_generator`.
+5. Kies de main branch en `streamlit_app.py` als entry point.
+6. Klik op Deploy!
+
+De app zal dan live zijn op een URL zoals `https://lkt-nederlands-quiz-generator.streamlit.app`.
+
 ### Oud (gebruik `options` + `correct_answer`)
 
 ```json
