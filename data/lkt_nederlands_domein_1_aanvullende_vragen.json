@@ -1,0 +1,321 @@
+[
+  {
+    "id": 102,
+    "domain": 1,
+    "question": "Hoe stimuleert de leerkracht het ontwikkelen van de luistervaardigheid van zijn leerling?",
+    "options": {
+      "a": "Door het begrijpen, interpreteren, evalueren en samenvatten van wat je hoort.",
+      "b": "Door te luisteren en vragen te stellen.",
+      "c": "Door te begrijpen en gelijk feedback te geven."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 103,
+    "domain": 1,
+    "question": "Wat zijn de kenmerken bij het uitvoeren van een spreektaak?",
+    "options": {
+      "a": "Beurten nemen en bijdragen aan samenhang, afstemming op doel, afstemming op de gesprekspartner(s), woordgebruik en woordenschat, vloeiendheid, verstaanbaarheid en grammaticale beheersing.",
+      "b": "Direct een gesprekpartner kiezen, evalueren, opslaan.",
+      "c": "Zo snel mogelijk het fundamentele niveau 1F bereiken."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 104,
+    "domain": 1,
+    "question": "Wat zijn de luisterdoelen? Kies het meest volledige antwoord.",
+    "options": {
+      "a": "Iets te weten willen komen, een bepaald gevoel willen ondergaan, een bepaalde handeling willen uitvoeren, een spel mee willen spelen.",
+      "b": "Iets te weten willen komen, een bepaalde handeling willen uitvoeren, een spel mee willen spelen.",
+      "c": "Iets te weten willen komen, een bepaalde handeling willen uitvoeren, een spel mee willen spelen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 105,
+    "domain": 1,
+    "question": "Welke luisterstrategieën zijn er?",
+    "options": {
+      "a": "Globaal luisteren, intensief luisteren, kritisch luisteren, gericht luisteren.",
+      "b": "Globaal luisteren, nonchalant luisteren, kritisch luisteren, gericht luisteren.",
+      "c": "Globaal luisteren, intensief luisteren, ongeïnteresseerd luisteren, gericht luisteren."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 106,
+    "domain": 1,
+    "question": "Welke strategieën kan een luisteraar inzetten tijdens het luisteren? Kies het meest volledige antwoord.",
+    "options": {
+      "a": "Oriëntatie op het luisterdoel, oriënteren op het onderwerp en de eigen kennis daarvan, oriënteren op soort luistertekst, oriënteren op de spreker, reflecteren op de luistertaak, monitoren van de luistertaak, evalueren van de luistertaak.",
+      "b": "Oriëntatie op het luisterdoel, oriënteren op het onderwerp en de eigen kennis daarvan, oriënteren op soort luistertekst, oriënteren op de spreker, reflecteren op de luistertaak, monitoren van de omgeving, bekritiseren van de luistertaak.",
+      "c": "Oriëntatie op het luisterdoel, oriënteren op soort luistertekst, oriënteren op de spreker, reflecteren op de luistertaak, monitoren van de luistertaak, evalueren van de luistertaak."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 107,
+    "domain": 1,
+    "question": "Welke spreekdoelen ken je?",
+    "options": {
+      "a": "Informeren, amuseren, instrueren, overtuigen.",
+      "b": "Amuseren, instrueren, overtuigen.",
+      "c": "Informeren, amuseren, overtuigen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 108,
+    "domain": 1,
+    "question": "Welke stappen zijn belangrijk om een bepaald spreekdoel te bereiken? Kies het meest volledige antwoord.",
+    "options": {
+      "a": "Oriënteren op de inhoud, doel en publiek bepalen, plannen, presenteren, reflecteren op doel en inhoud.",
+      "b": "Oriënteren op de inhoud, plannen, presenteren, reflecteren op doel en inhoud.",
+      "c": "Oriënteren op de inhoud, doel en publiek bepalen, reflecteren op doel en inhoud."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 109,
+    "domain": 1,
+    "question": "Waar moet je op letten bij spreektechniek?",
+    "options": {
+      "a": "Uitspraak, articulatie, intonatie.",
+      "b": "Toon, uitspraak, kijken in de ogen van de luisteraar(s).",
+      "c": "Uitspraak, toon, luisteren."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 110,
+    "domain": 1,
+    "question": "Welke sociale taalfuncties zijn er?",
+    "options": {
+      "a": "Zelfhandhaving, zelfsturing, sturing van anderen, structurering.",
+      "b": "Handhaving, zelfsturing, sturing van anderen, structurering.",
+      "c": "Zelfstandig, zelfsturing, sturing van anderen, structurering."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 111,
+    "domain": 1,
+    "question": "Welke cognitieve taalfuncties ken je en wat betekenen ze?",
+    "options": {
+      "a": "Rapporteren: verslag doen van iets wat in werkelijkheid voorkomt. Redeneren: beschrijving waarin een extra denkstap wordt verwoord. Projecteren: verplaatsen in de gedachten en gevoelens van iemand anders.",
+      "b": "Rapporteren: verslag doen van iets wat in werkelijkheid voorkomt. Redeneren: verplaatsen in de gedachten en gevoelens van iemand. Projecteren: beschrijving waarin een extra denkstap wordt verwoord.",
+      "c": "Rapporteren: verslag doen van iets wat in je opkomt. Redeneren: verplaatsen in de gedachten en gevoelens van iemand. Projecteren: beschrijving waarin een extra denkstap wordt verwoord."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 112,
+    "domain": 1,
+    "question": "Wat betekent taalgebruiksbewustzijn?",
+    "options": {
+      "a": "Dit betekent dat je jouw eigen taalgebruik plant, stuurt, bewaakt en controleert.",
+      "b": "Dit betekent dat je van anderen kopieert.",
+      "c": "Dit betekent dat je overal op dezelfde manier praat."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 113,
+    "domain": 1,
+    "question": "Welke luistertaken zijn er?",
+    "options": {
+      "a": "Luisteren naar instructies, luisteren als lid van een live publiek, luisteren naar radio en televisie en naar gesproken tekst op internet.",
+      "b": "Luisteren naar instructies, luisteren naar radio en televisie en naar gesproken tekst op internet.",
+      "c": "Luisteren naar instructies, luisteren naar radio en televisie en naar teksten in een boek."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 114,
+    "domain": 1,
+    "question": "Welke soorten gesprekken zijn er?",
+    "options": {
+      "a": "Filosofisch gesprek, kringgesprek, interview of leergesprek.",
+      "b": "Filosofisch gesprek, kringgesprek of interview.",
+      "c": "Filosofisch gesprek, kringgesprek of leergesprek."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 115,
+    "domain": 1,
+    "question": "Welke stappen zijn er nodig bij de voorbereiding van zowel een spreektaak als een tekst?",
+    "options": {
+      "a": "Oriënteren op de inhoud, doel en doelgroep bepalen, plannen, presenteren en reflecteren op doel en inhoud.",
+      "b": "Oriënteren op doel, doel en doelgroep bepalen, plannen, presenteren en reflecteren op doel en inhoud.",
+      "c": "Oriënteren op de inhoud, doel en doelgroep bepalen, onderzoeken, presenteren en reflecteren op doel en inhoud."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 116,
+    "domain": 1,
+    "question": "Wat verstaan we onder taalgebruikssituaties?",
+    "options": {
+      "a": "Dat zijn situaties waarin een gesprek of monoloog plaatsvindt die wordt bepaald door het moment, de plaats en de aanwezigen.",
+      "b": "Dat zijn situaties waarin een gesprek of monoloog plaatsvindt en je het taalgebruik van vrienden overneemt.",
+      "c": "Dat zijn situaties waarin een gesprek of monoloog plaatsvindt en je anderen je eigen taalgebruik dwingt over te nemen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 117,
+    "domain": 1,
+    "question": "Wat verstaan we onder gesprekspatronen?",
+    "options": {
+      "a": "Ieder gesprek heeft dezelfde structuur (communicatiestructuur): zender -> boodschap -> ontvanger. Minimaal 1 spreker en 1 luisteraar.",
+      "b": "Ieder gesprek heeft een andere structuur (communicatiestructuur).",
+      "c": "Ieder gesprek heeft dezelfde structuur (communicatiestructuur): zender -> boodschap -> ontvanger. Minimaal 2 sprekers en 2 luisteraars."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 118,
+    "domain": 1,
+    "question": "Welke relaties zijn er tussen zinnen? Kies het meest volledige antwoord.",
+    "options": {
+      "a": "Vraag-antwoord, chronologische relatie (en toen), voorbeeld, vergelijking (maar), middel-doel (want) en voorwaarden (als).",
+      "b": "Chronologische relatie (en toen), voorbeeld, vergelijking (maar), middel-doel (want) en voorwaarden (als).",
+      "c": "Vraag-antwoord, chronologische relatie (en toen), middel-doel (want) en voorwaarden (als)."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 119,
+    "domain": 1,
+    "question": "Welke stelling(en) is/zijn juist? I) Taalvaardigheid is een voorloper van de schrijf- en leesvaardigheid. II) Kleuters kunnen al vragen stellen, lezen, praten met klasgenootjes en vertellen over alledaagse contextgebonden zaken.",
+    "options": {
+      "a": "Alleen I is juist.",
+      "b": "I en II zijn juist.",
+      "c": "I is onjuist en II is juist."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 120,
+    "domain": 1,
+    "question": "Welke taalverwervingsaspecten zijn er te onderscheiden?",
+    "options": {
+      "a": "Semantisch, fonologisch, morfologisch, syntactisch, pragmatisch, interactionele benadering.",
+      "b": "Semantisch, fonologisch, morfologisch, syntactisch, pragmatisch, rationele benadering.",
+      "c": "Semantisch, fonologisch, morfologisch, syntactisch, pragmatisch, behavioristische benadering."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 121,
+    "domain": 1,
+    "question": "Wat is de volgorde van de taalontwikkelingsfasen?",
+    "options": {
+      "a": "Prelinguale of preverbale fase, linguale of talige fase, differentiatiefase, voltooiingsfase.",
+      "b": "Prelinguale of preverbale fase, differentiatiefase, voltooiingsfase, linguale of talige fase.",
+      "c": "Prelinguale of preverbale fase, linguale of talige fase, differentiatiefase, voltooiingsfase."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 122,
+    "domain": 1,
+    "question": "Welke varianten/typen/vormen van tweedetaalverwerving worden onderscheiden?",
+    "options": {
+      "a": "Simultane taalverwerving en successieve taalverwerving.",
+      "b": "Simultane taalverwerving en communicatieve taalverwerving.",
+      "c": "Successieve taalverwerving en interferentiefouten."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 123,
+    "domain": 1,
+    "question": "Bij welke taalontwikkeling leren kinderen een taal nadat ze een tweede taal hebben geleerd?",
+    "options": {
+      "a": "Successieve tweetaligheid.",
+      "b": "Simultane taalverwerving.",
+      "c": "Interferentiefouten."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 124,
+    "domain": 1,
+    "question": "Welke functies van taal zijn er?",
+    "options": {
+      "a": "De communicatieve functie, de conceptualiserende functie, de expressieve functie.",
+      "b": "De conceptualiserende functie.",
+      "c": "De expressieve functie en de conceptualiserende functie."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 125,
+    "domain": 1,
+    "question": "Er zijn vier deelcompetenties van de communicatieve competentie: I) grammaticale competentie, II) tekstuele competentie, III) strategische competentie, IV) functionele competentie. Welke match hoort hierbij? Definities: A) de taalgebruiker beschikt over fonologische en syntactische vaardigheden en over een adequate woordenschat; B) de taalgebruiker kan zijn taalgebruik aanpassen aan specifieke contexten; C) de taalgebruiker kan strategieën hanteren om communicatieve doelen te bereiken; D) de taalgebruiker is vaardig in het doorzien van de opbouw van teksten en kan teksten structureren.",
+    "options": {
+      "a": "[ I - A; II - D; III - C; IV - B ]",
+      "b": "Controleer in PDF",
+      "c": "Controleer in PDF"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 126,
+    "domain": 1,
+    "question": "Welke stelling klopt voor CAT?",
+    "options": {
+      "a": "Cognitief academisch taalgebruik heeft betrekking op het schoolse taalgebruik, zowel in gesproken als in geschreven vorm. Het gaat om abstract taalgebruik dat je nodig hebt om op school nieuwe informatie te leren.",
+      "b": "Cognitief academisch taalgebruik is het taalgebruik voor de dagelijkse omgang, vraagt weinig voorkennis en het woordgebruik is aangepast aan de situatie.",
+      "c": "A en B."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 127,
+    "domain": 1,
+    "question": "Welke talen worden in Nederland gesproken? Kies het meest volledige antwoord.",
+    "options": {
+      "a": "Dialecten, groepstalen, migrantentaal en straattaal.",
+      "b": "Dialecten, groepstalen, AN, migrantentaal en straattaal.",
+      "c": "Dialecten, groepstalen en straattaal."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 128,
+    "domain": 1,
+    "question": "Welke talen hebben de status van standaardtalen gekregen in Nederland? Kies het meest volledige antwoord.",
+    "options": {
+      "a": "Het Fries, Nedersaksich en het Nederlands.",
+      "b": "Het Fries en het Nederlands.",
+      "c": "Het Fries, Nedersaksich, dialecten en het Nederlands."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 129,
+    "domain": 1,
+    "question": "Welk van de onderstaande antwoorden past het beste bij het huidige begrip 'taalachterstand'?",
+    "options": {
+      "a": "Meertalige leerlingen en leerlingen uit sociaaleconomisch zwakkere milieus die met een laag taalvaardigheidsniveau de basisschool binnenkomen.",
+      "b": "Leerlingen uit de zogenaamde achterstandsmilieus.",
+      "c": "A en B."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 130,
+    "domain": 1,
+    "question": "Uit welke onderdelen bestaat deze taallijn?",
+    "options": {
+      "a": "Gesprekken, woordenschat, interactief voorlezen, ICT, ouderbetrokkenheid.",
+      "b": "Gesprekken, woordenschat, interactief voorlezen, ICT, ouderbijdrage.",
+      "c": "Selecteren, gesprekken, woordenschat, interactief voorlezen, ICT, ouderbetrokkenheid."
+    },
+    "correct_answer": "a"
+  }
+]

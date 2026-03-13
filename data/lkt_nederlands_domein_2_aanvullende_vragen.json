@@ -1,0 +1,244 @@
+[
+  {
+    "id": 131,
+    "domain": 2,
+    "question": "Bij een kind dat op voetbal zit zal het woord voetbal een diepere betekenis hebben, omdat het veel meer relaties kan leggen met gerelateerde woorden. Dit is een voorbeeld van…",
+    "options": {
+      "a": "Diepe woordkennis",
+      "b": "Brede woordkennis",
+      "c": "Hoge woordkennis"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 132,
+    "domain": 2,
+    "question": "Wat is het verschil tussen brede woordkennis en diepe woordkennis?",
+    "options": {
+      "a": "De brede woordkennis zegt iets over het aantal woorden die iemand kent en de diepe woordkennis zegt iets over de betekenis die men van woorden kent",
+      "b": "De brede woordkennis zegt iets over de relaties die iemand tussen woorden legt en de diepe woordkennis zegt iets over het aantal woorden die iemand kent",
+      "c": "De brede woordkennis zegt iets over de moeilijkheidsgraad van woorden en de diepe woordkennis zegt iets over de frequentie van woorden."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 133,
+    "domain": 2,
+    "question": "De woorden die een kind herkent of begrijpt, maar niet zelf gebruikt noem je…",
+    "options": {
+      "a": "De receptieve woordenschat",
+      "b": "De productieve woordenschat",
+      "c": "De analytische woordenschat"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 134,
+    "domain": 2,
+    "question": "Wat is opvallend wanneer je kijkt naar de receptieve woordenschat van eentalige en tweetalige kinderen?",
+    "options": {
+      "a": "Het verschil in omvang van de receptieve woordenschat neemt met de jaren alleen maar toe",
+      "b": "Het verschil in omvang van de receptieve woordenschat neemt met de jaren af",
+      "c": "Op tienjarige leeftijd is de omvang van de receptieve woordenschat vrijwel gelijk"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 135,
+    "domain": 2,
+    "question": "Wat is de betekenis van productieve woordenschat?",
+    "options": {
+      "a": "De woorden die je gebruikt om met anderen te communiceren",
+      "b": "De woorden die je begrijpt maar niet zelf gebruikt",
+      "c": "De woorden die je herkent maar niet zelf gebruikt"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 136,
+    "domain": 2,
+    "question": "Wat is opvallend wanneer je kijkt naar de omvang van de receptieve en productieve woordenschat?",
+    "options": {
+      "a": "De productieve woordenschat is altijd kleiner dan de receptieve woordenschat",
+      "b": "De receptieve woordenschat is altijd kleiner dan de productieve woordenschat",
+      "c": "De productieve en receptieve woordenschat is ongeveer gelijk"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 137,
+    "domain": 2,
+    "question": "Wat zijn woordleerstrategieën?",
+    "options": {
+      "a": "Werkwijzen die bewust worden ingezet om de betekenis van woorden te achterhalen en nieuwe woorden aan te leren",
+      "b": "Werkwijzen die leerlingen zelf bedenken om nieuwe woorden te leren",
+      "c": "Werkwijzen die worden ingezet om snel woorden uit je hoofd te leren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 138,
+    "domain": 2,
+    "question": "Wat zijn de essentiële betekeniskenmerken van een stoel?",
+    "options": {
+      "a": "Een zitvlak en een rugleuning",
+      "b": "De stof en de kleur",
+      "c": "De hoogte en de vorm"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 139,
+    "domain": 2,
+    "question": "Welke woordrelatie hebben de woorden boek en hoek?",
+    "options": {
+      "a": "Een vormrelatie",
+      "b": "Een betekenisrelatie",
+      "c": "Een stijlrelatie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 140,
+    "domain": 2,
+    "question": "De woorden vulkanisme en persoonsvorm zijn voorbeelden van…",
+    "options": {
+      "a": "Vaktaalwoorden",
+      "b": "Schooltaalwoorden",
+      "c": "Signaalwoorden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 141,
+    "domain": 2,
+    "question": "Wat zijn schooltaalwoorden?",
+    "options": {
+      "a": "Abstracte woorden en begrippen die de leerlingen moeten kennen om het onderwijs te kunnen volgen",
+      "b": "Woorden die leerlingen op school vooral tegen elkaar zeggen",
+      "c": "Alle woorden die je op school leert"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 142,
+    "domain": 2,
+    "question": "Het voegwoord en is een voorbeeld van een",
+    "options": {
+      "a": "Functiewoord",
+      "b": "Signaalwoord",
+      "c": "Vaktaalwoord"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 143,
+    "domain": 2,
+    "question": "Voorbeelden van een signaalwoord zijn…",
+    "options": {
+      "a": "Morgen, daarna, in tegenstelling tot",
+      "b": "Wie, wat, of",
+      "c": "Oorzaak, gevolg, thema"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 144,
+    "domain": 2,
+    "question": "Wat is de minimale productieve woordenschat die een vierjarige bij de start van de schoolperiode nodig heeft?",
+    "options": {
+      "a": "2000 woorden",
+      "b": "1000 woorden",
+      "c": "4000 woorden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 145,
+    "domain": 2,
+    "question": "Welke beweringen over het mentaal lexicon zijn juist? 1. Het mentaal lexicon is onderdeel van het langetermijngeheugen 2. Van elk woord zijn in het mentaal lexicon meerdere eigenschappen opgeslagen 3. Binnen het mentaal lexicon zijn woorden en eigenschappen als een netwerk geordend",
+    "options": {
+      "a": "Alle beweringen zijn juist",
+      "b": "Alleen bewering 1 en 2 zijn juist",
+      "c": "Alleen bewering 3 is juist"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 146,
+    "domain": 2,
+    "question": "De fonologische identiteit van een woord zegt iets over…",
+    "options": {
+      "a": "De klank en de uitspraak",
+      "b": "De betekenis",
+      "c": "De spelling"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 147,
+    "domain": 2,
+    "question": "De leraar laat de leerlingen een afbeelding zien en vertelt dat dit een kerstboom is. Hoe noem je deze manier van woordenschatverwerving?",
+    "options": {
+      "a": "Labelen",
+      "b": "Categoriseren",
+      "c": "Netwerkopbouw"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 148,
+    "domain": 2,
+    "question": "In hoeverre is er een relatie tussen de cognitieve ontwikkeling en ontwikkeling van de woordenschat van een kind?",
+    "options": {
+      "a": "Deze gaan hand in hand met elkaar",
+      "b": "Deze is niet altijd aanwezig",
+      "c": "Deze relatie is er niet"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 149,
+    "domain": 2,
+    "question": "Met welk begrip wordt het schoolse, abstracte, taalgebruik aangeduid?",
+    "options": {
+      "a": "Cognitieve Academische Taalvaardigheid (CAT)",
+      "b": "Dagelijkse Algemene Taalvaardigheid (DAT)",
+      "c": "Dagelijks Algemeen Taalgebruik (DAT)"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 150,
+    "domain": 2,
+    "question": "Wat wordt verstaan onder taalvariëteiten?",
+    "options": {
+      "a": "De concrete verschijningsvormen van taalvariëteiten, zoals dialecten, groepstalen en straattaal",
+      "b": "De talen die in verschillende landen worden gesproken",
+      "c": "De verschillende manieren waarop je een woord kunt uitspreken"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 151,
+    "domain": 2,
+    "question": "Welke beweringen over de woordenschat zijn juist? 1. Een geringe woordenschat is de belangrijkste oorzaak van uitval bij begrijpend lezen, 2. Meertalige of taalzwakke leerlingen hebben eerder problemen met de schoolse taalvaardigheid, 3. De omvang van de woordenschat heeft geen invloed bij het leren lezen",
+    "options": {
+      "a": "Bewering 1 en 2 zijn juist",
+      "b": "Alle beweringen zijn juist",
+      "c": "Alleen bewering 1 is juist"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 152,
+    "domain": 2,
+    "question": "Wat is de Taallijn?",
+    "options": {
+      "a": "Taalonderwijs waarbij extra aandacht is voor kinderen met een taalachterstand",
+      "b": "Een onderzoek waarbij het taalonderwijs in Nederland in kaart is gebracht",
+      "c": "De doorlopende lijn in het taalonderwijs van groep 1 tm 8"
+    },
+    "correct_answer": "a"
+  }
+]

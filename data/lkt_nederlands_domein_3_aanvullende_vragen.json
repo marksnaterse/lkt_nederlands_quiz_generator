@@ -1,0 +1,267 @@
+[
+  {
+    "id": 153,
+    "domain": 3,
+    "question": "Wat is in de fase van ontluikende geletterdheid niet van belang?",
+    "options": {
+      "a": "De taal waarin kinderen worden voorgelezen of waarin ze ervaring opdoen",
+      "b": "De interactie met ouders of opvoeders",
+      "c": "Voorlezen aan kinderen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 154,
+    "domain": 3,
+    "question": "Functionele geletterdheid is:",
+    "options": {
+      "a": "De mogelijkheid om zich in een geletterde samenleving te kunnen redden",
+      "b": "Een andere benaming voor technisch lezen",
+      "c": "Het niveau van het lezen van kinderen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 155,
+    "domain": 3,
+    "question": "Een van de tussendoelen van boekoriëntatie is:",
+    "options": {
+      "a": "Kinderen weten dat verhalen een opbouw hebben",
+      "b": "Kinderen weten dat symbolen verwijzen naar taalhandelingen",
+      "c": "Kinderen kennen het onderscheid tussen lezen en schrijven"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 156,
+    "domain": 3,
+    "question": "Een van de tussendoelen van verhaalbegrip is:",
+    "options": {
+      "a": "Halverwege het verhaal kunnen kinderen voorspellingen doen over de afloop van het verhaal",
+      "b": "Kinderen tonen belangstelling voor een verhaal",
+      "c": "Kinderen kunnen woorden in zinnen onderscheiden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 157,
+    "domain": 3,
+    "question": "Een tussendoel van het alfabetisch principe is:",
+    "options": {
+      "a": "Kinderen leggen de foneem-grafeemkoppeling.",
+      "b": "Kinderen kunnen het alfabet opzeggen.",
+      "c": "Kinderen snappen dat een woord is opgebouwd uit letters."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 158,
+    "domain": 3,
+    "question": "Wat is auditieve objectivatie?",
+    "options": {
+      "a": "Een kind let op de klank en niet de betekenis",
+      "b": "Een kind herkent letters",
+      "c": "Een kind kan een woord in klanken opsplitsen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 159,
+    "domain": 3,
+    "question": "Wat is de meest complexe auditieve vaardigheid?",
+    "options": {
+      "a": "Het bepalen van de klankpositie.",
+      "b": "Het opdelen van korte woorden in losse klanken.",
+      "c": "Het toepassen van eindrijm."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 160,
+    "domain": 3,
+    "question": "Visuele analyse is de vaardigheid om:",
+    "options": {
+      "a": "Binnen een woord afzonderlijke grafemen te onderscheiden.",
+      "b": "Het zien van verschillen en overeenkomsten tussen letters.",
+      "c": "De juiste leesrichting te hanteren."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 161,
+    "domain": 3,
+    "question": "Een kind dat huis overschrijft als huis, beheerst nog niet:",
+    "options": {
+      "a": "Spatieel ordenen",
+      "b": "Auditieve synthese",
+      "c": "Visuele discriminatie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 162,
+    "domain": 3,
+    "question": "Een van de stappen van de elementaire leeshandeling is:",
+    "options": {
+      "a": "Auditieve synthese",
+      "b": "Letterpositie bepalen",
+      "c": "Visuele discriminatie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 163,
+    "domain": 3,
+    "question": "De eerste stap van de spellingstrategie van elementaire spellinghandeling is:",
+    "options": {
+      "a": "Het gesproken woord auditief analyseren in afzonderlijke fonemen",
+      "b": "De juiste grafemen koppelen aan de fonemen",
+      "c": "Het hele woord schrijven"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 164,
+    "domain": 3,
+    "question": "Een oudere kleuter die een jonge kleuter voorleest aan de hand van verhaaltjes bij de plaatjes in een boek is aan het:",
+    "options": {
+      "a": "Pseudolezen",
+      "b": "Pictografisch lezen",
+      "c": "Visueel aan het analyseren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 165,
+    "domain": 3,
+    "question": "Een voorbeeld van een klankzuiver woord is:",
+    "options": {
+      "a": "Huis",
+      "b": "Beer",
+      "c": "Paard"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 166,
+    "domain": 3,
+    "question": "De tweede fase in de schrijfontwikkeling van een kind is:",
+    "options": {
+      "a": "Krabbelen",
+      "b": "Tekenen",
+      "c": "Ketens letterachtige vormen of letters"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 167,
+    "domain": 3,
+    "question": "‘Invented spelling’ houdt in:",
+    "options": {
+      "a": "Schrijven kinderen klanken en woorden zoals zij ze horen",
+      "b": "Verzinnen kinderen een eigen spelling",
+      "c": "Schrijven kinderen van rechts naar links"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 168,
+    "domain": 3,
+    "question": "Globaal lezen houdt in dat:",
+    "options": {
+      "a": "Kinderen een woord herkennen op basis van een aantal kenmerkende visuele eigenschappen",
+      "b": "Kinderen de grote lijn van een tekst begrijpen",
+      "c": "Kinderen zelfstandig kunnen lezen",
+      "d": ""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 169,
+    "domain": 3,
+    "question": "Het bordje voor de aanduiding van een nooduitgang is een voorbeeld van:",
+    "options": {
+      "a": "Pictografisch schrift",
+      "b": "Logografisch schrift",
+      "c": "Alfabetisch schrift"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 170,
+    "domain": 3,
+    "question": "Een ‘smiley’ is een voorbeeld van:",
+    "options": {
+      "a": "Pictografisch schrift",
+      "b": "Logografisch schrift",
+      "c": "Alfabetisch schrift"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 171,
+    "domain": 3,
+    "question": "Het Chinese schrift is een voorbeeld van:",
+    "options": {
+      "a": "Logografisch schrift",
+      "b": "Pictografisch schrift",
+      "c": "Alfabetisch schrift"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 172,
+    "domain": 3,
+    "question": "Wanneer een pictografisch schrift met arbitraire tekens voor abstracte begrippen wordt aangevuld en de tekens gestileerd worden en daardoor minder herkenbaar worden, ontwikkelt het zich tot een:",
+    "options": {
+      "a": "Logografisch schrift",
+      "b": "Alfabetisch schrift",
+      "c": "Pictografisch schrift"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 173,
+    "domain": 3,
+    "question": "Een ‘Functioneel Analfabeet’ is iemand die:",
+    "options": {
+      "a": "Niet de kennis en vaardigheden heeft die noodzakelijk zijn om te functioneren in de maatschappelijke context",
+      "b": "De functies van het lezen niet beheerst",
+      "c": "Wel kan lezen, maar niet kan schrijven"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 174,
+    "domain": 3,
+    "question": "Functionele geletterdheid betekent dat:",
+    "options": {
+      "a": "Leerlingen in staat zijn geschreven taal te hanteren in alle voorkomende maatschappelijke situaties",
+      "b": "Leerlingen begrijpend lezen en schrijven beheersen",
+      "c": "Leerlingen alle functies van taal beheersen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 175,
+    "domain": 3,
+    "question": "Op welk vlak is de thuissituatie van invloed op de geletterdheid:",
+    "options": {
+      "a": "Wanneer kinderen thuis veel ervaring opdoen met de geschreven taal, zullen ze met een hoger niveau van geletterdheid de basisschool binnenkomen",
+      "b": "Als een kind oudere broertjes of zusjes heeft, kunnen ze sneller lezen",
+      "c": "Als een kind thuis een andere taal spreekt, zullen ze minder snel leren lezen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 176,
+    "domain": 3,
+    "question": "Het doel van een VVE programma is:",
+    "options": {
+      "a": "Kinderen in achterstandsituaties extra stimuleren om de start in het basisonderwijs te vergemakkelijken",
+      "b": "Kinderen moeten zo snel mogelijk met lezen in aanraking te brengen",
+      "c": "Een doorlopend programma voor 2 tot 6-jarigen"
+    },
+    "correct_answer": "a"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "id": 368,
+    "domain": 9,
+    "question": "De elementaire spellingshandeling is gebaseerd op het fonologisch principe van ons schriftsysteem. Deze spellingsstrategie bestaat uit stappen. Welke van de onderstaande antwoorden verwoordt de juiste volgorde ?",
+    "options": {
+      "a": "Het gesproken woord auditief analyseren in afzonderlijke fonemen- volgorde fonemen onthouden- grafemen koppelen aan de fonemen - hele woord schrijven",
+      "b": "Hele woord schrijven- grafemen koppelen aan de fonemen - volgorde fonemen onthouden- het hele woord auditief analyseren in afzonderlijke fonemen.",
+      "c": "Hele woord schrijven- het gesproken woord auditief analyseren in afzonderlijke fonemen- grafemen koppelen aan de fonemen- volgorde fonemen onthouden",
+      "d": "Grafemen koppelen aan fonemen- het gesproken woord auditief analyseren in afzonderlijke fonemen- volgorde fonemen onthouden- hele woord schrijven"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 369,
+    "domain": 9,
+    "question": "Welke indirecte spellingsstrategieën kan men onderscheiden?",
+    "options": {
+      "a": "Fonologische strategie, woordbeeldstrategie, regelstrategie, analogie, hulpstrategie",
+      "b": "Directe strategie, fonologische strategie, woordbeeldstrategie, regelstrategie en analogie",
+      "c": "Directe strategie, fonologische strategie, visuele strategie, regelstrategie, analogie, hulpstrategie."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 370,
+    "domain": 9,
+    "question": "Welke indirecte spellingsstrategieën kan men onderscheiden?",
+    "options": {
+      "a": "Directe strategie, fonologische strategie, woordbeeldstrategie, regelstrategie en analogie",
+      "b": "Directe strategie, fonologische strategie, visuele strategie, regelstrategie, analogie, hulpstrategie.",
+      "c": "Auditievestrategie, visuelestrategie, regelstrategie, analogie, hulpstrategie."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "id": 371,
+    "domain": 9,
+    "question": "Hoe kan het spellingsbewustzijn van leerlingen worden gestimuleerd?",
+    "options": {
+      "a": "Veel eigen teksten schrijven, controleren en corrigeren",
+      "b": "Vaker oefenen met de toepassen van de spellingsregels",
+      "c": "Werkbladen spelling meegeven om thuis te oefenen",
+      "d": "Vaker een dictee afnemen in de klas"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 372,
+    "domain": 9,
+    "question": "Wat zijn klankzuivere woorden?",
+    "options": {
+      "a": "Woorden die volgens het fonologisch principe worden geschreven",
+      "b": "Woorden waarbij elk foneem wordt weergegeven door een grafeem",
+      "c": "Woorden die deels het fonologisch principe volgen",
+      "d": "Woorden die afwijken van het fonologisch principe"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 373,
+    "domain": 9,
+    "question": "Welk van de onderstaande woorden is klankzuiver?",
+    "options": {
+      "a": "herfst",
+      "b": "beer",
+      "c": "dia",
+      "d": "deur"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 374,
+    "domain": 9,
+    "question": "In de Nederlandse spelling onderscheidt men de veranderlijke en onveranderlijke woorden. Wat zijn kenmerken van veranderlijke woorden?",
+    "options": {
+      "a": "Deze woorden verbuigen naar de eerste persoon, tweede persoon etc (ik, jij, hij…) en ook van enkelvoud naar meervoud",
+      "b": "Deze woorden verbuigen van aantonende wijs naar gebiedende wijs",
+      "c": "Deze woorden kunnen verbuigen van tegenwoordige tijd naar verleden tijd",
+      "d": "Een combinatie van bovenstaande antwoorden"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "id": 375,
+    "domain": 9,
+    "question": "Voor een correcte wijze van het spellen en/of schrijven van woorden is het volgende vereist:",
+    "options": {
+      "a": "Toepassing van de spellingsregels en grammaticaal inzicht",
+      "b": "Grammaticaal inzicht",
+      "c": "Toepassing van de spellingsprincipes",
+      "d": "Geen van bovenstaande"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 376,
+    "domain": 9,
+    "question": "Welk leestekens vallen onder de categorie van complexe leestekens? Kies het meest volledige antwoord",
+    "options": {
+      "a": "Komma, puntkomma, dubbele punt, haakjes en aanhalingstekens",
+      "b": "Puntkomma, aanhalingstekens, haakjes en dubbele punt",
+      "c": "Vraagteken, uitroepteken, hoofdletter en punt.",
+      "d": "Alle bovengenoemde antwoorden zijn correct."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 377,
+    "domain": 9,
+    "question": "Het dictee kan worden ingezet om leerlingen te helpen woorden en zinnen correct te leren schrij ven. Bij de nadruk op werkwoordspelling maakt men gebruik van het:",
+    "options": {
+      "a": "Zinnendictee",
+      "b": "Woorddictee",
+      "c": "Kerndictee"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 378,
+    "domain": 9,
+    "question": "Bij de nadruk op onveranderlijke woorden maakt men gebruik van het:",
+    "options": {
+      "a": "Woorddictee",
+      "b": "Kerndictee",
+      "c": "Zinnendictee"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 379,
+    "domain": 9,
+    "question": "In het onderwijs geeft men spellingsonderwijsontwerpen aan de hand van oefeningen uit een woordpakket (hierbij wordt gekozen voor oefeningen uit diverse spellingscategorieën). Bij oefeningen op semantisch niveau staat het volgende centraal:",
+    "options": {
+      "a": "Betekenis van het woord",
+      "b": "Klankvorm",
+      "c": "Opbouw van het woord",
+      "d": "Gebruik van het woord in de zin"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 380,
+    "domain": 9,
+    "question": "Welke toetsvorm kan worden ingezet bij leerlingen die zwak zijn in spelling?",
+    "options": {
+      "a": "PI-dictee",
+      "b": "Controledictee",
+      "c": "Niet-methodegebonden CITO toets"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 381,
+    "domain": 9,
+    "question": "Materiaalfouten worden veroorzaakt door:",
+    "options": {
+      "a": "Eigenaardigheden van het spellingssysteem",
+      "b": "Doordat de leerlingen spellen op basis van het gehoor en bij gebrek aan een correct woordbeeld",
+      "c": "Door onjuist toepassen van de spellingsregels"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 382,
+    "domain": 9,
+    "question": "Het aanbod van spellingsonderwijs is afhankelijk van:",
+    "options": {
+      "a": "Frequentie van woorden - veel voorkomende woorden worden aangeleerd",
+      "b": "Lesstof is afhankelijk van de moeilijkheidsgraad van woorden. De moeilijke woorden worden aangeboden in de bovenbouw",
+      "c": "Spellingscategorieën - woorden worden ingedeeld per spellingscategorie. Per les wordt 1 categorie aangeboden om structuur te bieden.",
+      "d": "Alle bovenstaande antwoorden zijn juist"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "id": 383,
+    "domain": 9,
+    "question": "Hoe wordt (volgens ‘Uitwerkingen kennisbasis Nederlands’) ‘invented spelling’ niet gestimuleerd?",
+    "options": {
+      "a": "Door leerlingen zelf te laten bedenken wat de schrijfwijze is van een woord",
+      "b": "Simultaan aan sprekend en schrijvend woorden op schrijven",
+      "c": "Leerlingen aanmoedigen bij de tekeningen te schrijven",
+      "d": "Met de leerlingen lezen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 384,
+    "domain": 9,
+    "question": "Op welk schriftsysteem is de Chinese taal gebaseerd?",
+    "options": {
+      "a": "Het logografisch schrift",
+      "b": "Het pictografisch schrift",
+      "c": "Het alfabetisch schrift Paragraaf 9."
+    },
+    "correct_answer": "a"
+  },
+
+  {
+    "id": 386,
+    "domain": 9,
+    "question": "Waar kan de correcte spelling tezamen met de bijbehorende spellingsregel worden opgezocht?",
+    "options": {
+      "a": "Het witte boekje",
+      "b": "Het groene boekje",
+      "c": "Woordenboeken als ‘Van Dale’"
+    },
+    "correct_answer": "a"
+  }
+]

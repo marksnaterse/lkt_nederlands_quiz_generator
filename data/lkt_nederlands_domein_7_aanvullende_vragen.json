@@ -1,0 +1,299 @@
+[
+  {
+    "id": 323,
+    "domain": 7,
+    "question": "Hoe kan de leerkracht bij een leerling een voorkeur voor bepaalde boeken ontwikkelen?",
+    "options": {
+      "a": "De leerkracht biedt verschillende soorten teksten aan, promoot ‘het goede kinderboek’ en laat de leerlingen kennis maken met verschillende soorten genres.",
+      "b": "De leerkracht biedt alleen het genre aan wat de leerling interesseert en laat de promotie van een boek over aan de ouders.",
+      "c": "De leerkracht laat de leerling zelf kiezen welk boek hij wil lezen. De promotie van een boek is de taak van de openbare bibliotheek."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 324,
+    "domain": 7,
+    "question": "Hoe creëert de leerkracht leesplezier bij de lezer van jeugdliteratuur?",
+    "options": {
+      "a": "De leerkracht creëert een stimulerende leesomgeving. In deze omgeving ontdekt de leerlingen dat geschreven taal zorgt voor: plezier, communicatie en kennisverwerving. Poëzie draagt bij aan creatiever schrijven.",
+      "b": "De leerkracht laat de leerling zelf een leesomgeving creëren. Hierbij mag de leerling lezen wat hij wil. Het enige doel van lezen is amusement. De leerling leest alleen poëzie als deze dit interessant vindt.",
+      "c": "De leerkracht creëert geen stimulerende leesomgeving. Lezen is iets voor thuis en poëzie is iets voor oude mensen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 325,
+    "domain": 7,
+    "question": "Welke leesdoelen kan jeugdliteratuur hebben?",
+    "options": {
+      "a": "Informeren, overtuigen, amuseren en instrueren.",
+      "b": "Informeren, beschouwen, instrueren en indoctrineren.",
+      "c": "Informeren, overtuigen, technische lezen, stelontwikkeling."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 326,
+    "domain": 7,
+    "question": "Welke indeling, op basis van gemeenschappelijk kenmerken, kan een literair genre hebben?",
+    "options": {
+      "a": "Zelfde thema, zelfde doel, zelfde vorm.",
+      "b": "Zelfde schrijver, zelfde doel, zelfde leeftijd.",
+      "c": "Zelfde plaatjes, zelfde lettertype, zelfde vorm."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 327,
+    "domain": 7,
+    "question": "Welke genre indeling op basis van thema is niet juist?",
+    "options": {
+      "a": "Kleuterverhalen.",
+      "b": "Fantasieverhalen.",
+      "c": "Verhalen in het hier-en-nu."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 328,
+    "domain": 7,
+    "question": "Welke genre indeling op basis van woord en beeld is juist?",
+    "options": {
+      "a": "Prentenboek, stripverhalen, informatieve teksten en poëzie.",
+      "b": "Prentenboeken, stripverhalen, informatieve teksten en proza.",
+      "c": "Prentenboeken, stripverhalen, amusementsteksten en proza."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 329,
+    "domain": 7,
+    "question": "Welke genre indeling op basis van doelstelling is juist?",
+    "options": {
+      "a": "Verhalende teksten en informatieve teksten.",
+      "b": "Proza en poëzie.",
+      "c": "Stripverhalen en leesteksten."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 330,
+    "domain": 7,
+    "question": "Welke genre indeling op basis van vorm is niet juist?",
+    "options": {
+      "a": "Betogende vorm",
+      "b": "Drama",
+      "c": "Proza"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 331,
+    "domain": 7,
+    "question": "Op welke punten worden teksten door een leerkracht gerangschikt?",
+    "options": {
+      "a": "Leestechnische niveau, thema, leeservaring, complexiteit van het verhaal.",
+      "b": "Leestechnische niveau, thema, leesbaarheid en complexiteit van het verhaal.",
+      "c": "Leestechnische niveau, soort tekst, leesbaarheid en complexiteit van het verhaal."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 332,
+    "domain": 7,
+    "question": "Wat zijn, naast het aantal woorden, de bepalende factoren voor de technische moeilijkheid bij AVI?",
+    "options": {
+      "a": "Woordfrequentie en woordlengte.",
+      "b": "Aantal klinkers en aantal medeklinkers.",
+      "c": "Woordkennis en woordlengte."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 333,
+    "domain": 7,
+    "question": "Waarvoor wordt het CLIB-niveau bij een boek gebruikt?",
+    "options": {
+      "a": "Begrijpend lezen",
+      "b": "Technisch lezen",
+      "c": "Leessnelheid."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 334,
+    "domain": 7,
+    "question": "Welke indeling wordt gebruikt naast AVI en CLIB?",
+    "options": {
+      "a": "LES (leeservaringsschaal)",
+      "b": "SVL (snelheid van lezen)",
+      "c": "KVT (kennis van teksten)"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 335,
+    "domain": 7,
+    "question": "Welke elementen bevat de narratologie?",
+    "options": {
+      "a": "Plaats, tijd, personages, thema en handeling.",
+      "b": "Tijd, plaats, schrijver, onderwerp en tijdsgeest.",
+      "c": "Tijd, plaats, motief, perspectief, beweegredenen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 336,
+    "domain": 7,
+    "question": "Wat is geen verhaalelement?",
+    "options": {
+      "a": "De kennis van de schrijver.",
+      "b": "Taalgebruik.",
+      "c": "Doelstelling."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 337,
+    "domain": 7,
+    "question": "Wat is geen term binnen het rijmen?",
+    "options": {
+      "a": "uitgelijnde rijm.",
+      "b": "Omarmde rijm.",
+      "c": "Gebroken rijm."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 338,
+    "domain": 7,
+    "question": "Met wat voor soort teksten moet een leerling in de onderbouw in aanraking komen om zijn leesplezier te bevorderen?",
+    "options": {
+      "a": "Prentenboeken, versjes en verhalen.",
+      "b": "Prentenboeken, stripverhalen en proza.",
+      "c": "Prentenboeken, proza en verhalen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 339,
+    "domain": 7,
+    "question": "Het boek geeft de leerling de mogelijkheid een standpunt in te nemen over de normen en waarden in de samenleving. Dit is een voorbeeld van de volgende functie van jeugdliteratuur:",
+    "options": {
+      "a": "Opvoedende functie.",
+      "b": "Ontspannende functie.",
+      "c": "Creatieve functie."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 340,
+    "domain": 7,
+    "question": "Welke functie van jeugdliteratuur komt tegemoet aan de behoefte van een leerling om van het mooie op zichzelf te willen genieten?",
+    "options": {
+      "a": "Esthetische functie.",
+      "b": "Ontspannende functie.",
+      "c": "Emotionele functie."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 341,
+    "domain": 7,
+    "question": "Leerlingen hebben niet direct behoefte aan informatie. Wij laten hen echter wel informatieve boeken lezen om hen zodoende wereldwijs te maken. Welk antwoord is juist?",
+    "options": {
+      "a": "Deze uitspraak klopt niet.",
+      "b": "Deze uitspraak klopt.",
+      "c": "Er is geen causaal verband."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 342,
+    "domain": 7,
+    "question": "Een boek kan beoordeeld worden op: literaire, pedagogische en ideologische gronden. Kloppen de volgende uitspraken? \n1) Bij het beoordelen op literaire gronden staat de tekst centraal.\n2) Bij het beoordelen op pedagogische gronden staan het kind en zijn ontwikkeling centraal.\n3) Bij het beoordelen op ideologisch gronden wordt gekeken naar de geloofsovertuiging in het boek.",
+    "options": {
+      "a": "Alleen 1 en 2 zijn goed.",
+      "b": "Alleen 2 en 3 zijn goed.",
+      "c": "Alleen 1 en 3 zijn goed."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 343,
+    "domain": 7,
+    "question": "Waar kijkt een literair criticus voornamelijk naar bij de beoordeling van boeken?",
+    "options": {
+      "a": "De esthetische kwaliteit van een boek.",
+      "b": "De correcte formulering in het boek.",
+      "c": "Het juiste gebruik van spelling en grammatica in het boek."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 344,
+    "domain": 7,
+    "question": "Wat wordt verstaan onder een leesbevorderaar?",
+    "options": {
+      "a": "Een persoon met het doel om kinderen zoveel mogelijk aan het lezen te krijgen.",
+      "b": "Een cadeautje voor kinderen die veel boeken lezen.",
+      "c": "Een boek wat graag gelezen wordt door alle kinderen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 345,
+    "domain": 7,
+    "question": "Klopt de volgende stelling? - Als ouders hoger opgeleid zijn, wordt er bij een kind thuis meer (voor)gelezen",
+    "options": {
+      "a": "Dit is juist.",
+      "b": "Dit is onjuist.",
+      "c": "Er is geen causaal verband."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 346,
+    "domain": 7,
+    "question": "Kinderen van vier jaar hebben soms een hoger niveau van geletterdheid doordat:",
+    "options": {
+      "a": "Zij thuis veel ervaring opdoen met geschreven taal.",
+      "b": "Er thuis veel wordt gesproken over boeken.",
+      "c": "Een kind de ondertiteling meeleest bij een film in vreemde taal."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 347,
+    "domain": 7,
+    "question": "Wat is het juiste rijtje met prijzen voor kinderboeken in de basisschoolleeftijd?",
+    "options": {
+      "a": "Gouden en zilveren Griffel, gouden en zilveren Penselen, Boekenleeuw, Boekenwelpen, Boekenpluim, Nederlands Kinderjury, Vlaggen en Wimpels, Woutertje Pieterse Prijs, Theo Thijssen- prijs.",
+      "b": "Gouden en zilveren Griffel, De Boekenwurm, gouden en zilveren Penselen, Nederlandse Kinderjury, Petra Pieterse Prijs, Theo-Taekema prijs.",
+      "c": "Zilveren pennenstreek, Boekenleeuw, Boekenwelp, Nederlandse Kinderjury, Vlaggen en Wimpels, De Boekenwurm, de Pietje Precies Prijs."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 348,
+    "domain": 7,
+    "question": "Welke prijs wordt uitgereikt aan het beste Nederlandse kinder- en jeugdboek?",
+    "options": {
+      "a": "Woutertje Pieterse Prijs.",
+      "b": "Theo Thijsen-prijs.",
+      "c": "Boekenpluim."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 349,
+    "domain": 7,
+    "question": "Wat is Vlaamse prijs voor het beste kinderboek?",
+    "options": {
+      "a": "Boekenleeuw",
+      "b": "Boekenwurm",
+      "c": "Gouden Penseel"
+    },
+    "correct_answer": "a"
+  }
+]

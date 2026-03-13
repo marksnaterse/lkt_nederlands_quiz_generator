@@ -1,0 +1,274 @@
+[
+  {
+    "id": 240,
+    "domain": 5,
+    "question": "Welke van de volgende uitspraken zijn waar? I. Onder begrijpend luisteren wordt verstaan: het luisteren naar een voorgelezen tekst. II. Begrijpend luisteren doet net als begrijpend lezen beroep op de denkvaardigheden die nodig zijn om tot tekstbegrip te komen. III. Het is belangrijk om kleuters vooral op een speelse manier kennis te laten maken met de denkvaardigheden.",
+    "options": {
+      "a": "I, II, III zijn waar",
+      "b": "I, II zijn waar",
+      "c": "Alleen III is waar"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 241,
+    "domain": 5,
+    "question": "Informatie zoeken over een bepaald onderwerp, willen weten hoe iets in elkaar gezet wordt, zoeken naar meningen, emoties of argumenten en ontspanning zijn voorbeelden van:",
+    "options": {
+      "a": "Het bepalen van een leesdoel",
+      "b": "Een leesstrategie",
+      "c": "Een leestaak"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 242,
+    "domain": 5,
+    "question": "Een leerling leest een tekst over de schilder Rembrandt van Rijn tijdens een geschiedenisles. Toevallig is hij recent naar het Rijksmuseum geweest en heeft hij al het een en het ander gezien en gelezen over deze schilder. Welke leesstrategie kan hij hier toepassen?",
+    "options": {
+      "a": "Verbinden: de lezer legt een verband tussen de tekst en zijn eigen kennis en ervaringen.",
+      "b": "Voorspellen: lezer maakt op grond van de beschikbare informatie een inschatting van de tekst.",
+      "c": "Vragen stellen: de lezer stelt zichzelf voor, tijdens en na het lezen vragen bij de tekst.",
+      "d": "Visualiseren: de lezer vormt zich een voorstelling bij de tekst.",
+      "e": "Samenvatten: de lezer vat de tekst samen.",
+      "f": "Afleiden: de lezer interpreteert impliciete informatie."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 243,
+    "domain": 5,
+    "question": "Een leerling wil een informatieve tekst interpreteren en verwerken, welke technieken kan hij hiervoor gebruiken?",
+    "options": {
+      "a": "Het onderstrepen van hoofdzaken, het maken van een samenvatting, schema of mindmap",
+      "b": "Memoriseren, ezelsbruggetjes of hulpmiddelen gebruiken (technieken voor het onthouden en presenteren)",
+      "c": "(Efficiënt) vinden en raadplegen van bronnen (informatieverwerving)"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 244,
+    "domain": 5,
+    "question": "Welke van de volgende uitspraken is waar? I. Als de leerkracht kinderen uit groep 1 en 2 veel voorleest en laat experimenteren met letters, zullen de kinderen gemotiveerd raken zelf te leren lezen. II. In groep 3 kan het leesproces stagneren door didactisering III. Wanneer de leerling het belang van de leestaak ervaart, neemt motivatie en inzet van kennis en strategieën toe.",
+    "options": {
+      "a": "I, II en III zijn waar",
+      "b": "I en II zijn waar",
+      "c": "Alleen III is waar"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 245,
+    "domain": 5,
+    "question": "Door zich bewust te worden van het eigen leesgedrag kan een leerling zijn gedrag herkennen, erkennen en zo nodig herzien. Hoe wordt deze aanpak genoemd?",
+    "options": {
+      "a": "Zelfreflectiestrategie",
+      "b": "Leesstrategie",
+      "c": "Sturingstrategie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 246,
+    "domain": 5,
+    "question": "De zelfreflectiestrategie is essentieel voor de leesontwikkeling en wordt gezien als de motor voor de groei van de leesbekwaamheid: waar of niet waar?",
+    "options": {
+      "a": "Waar",
+      "b": "Niet waar"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 247,
+    "domain": 5,
+    "question": "De leerkracht vraagt zich de volgende zaken af.- Past een tekst bij de ontwikkeling van de leerling?- Heeft de tekstinhoud betekenis voor de leerling?- Heeft de leerling voldoende inhoudelijke en talige voorkennis?- Nodigt de tekst uit tot lezen? Wat houdt dit in en waarom vraagt hij zich deze zaken af?",
+    "options": {
+      "a": "Hij stemt de complexiteit van de leestaak af op de interesse en het niveau van de leerling",
+      "b": "Hij wil de leerling uitdagen tot reflectie op zijn leesgedrag",
+      "c": "Hij wil de leerling stimuleren om leesstrategieën te hanteren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 248,
+    "domain": 5,
+    "question": "Een tekst met verzonnen gebeurtenissen of een persoonlijke weergave van de realiteit – met (vaak) de bedoeling de lezer te amuseren – noem je een:",
+    "options": {
+      "a": "Verhalende tekst",
+      "b": "Informatieve tekst",
+      "c": "Directieve tekst",
+      "d": "Beschouwende tekst",
+      "e": "Argumentatieve tekst"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 249,
+    "domain": 5,
+    "question": "Een tekst waarin de werkelijkheid wordt beschreven, zoals een krant of studieboek – met de bedoeling de lezer informatie te geven en zijn kennis van de werkelijkheid te verrijken – noem je een:",
+    "options": {
+      "a": "Informatieve tekst",
+      "b": "Directieve tekst",
+      "c": "Beschouwende tekst",
+      "d": "Argumentatieve tekst",
+      "e": "Verhalende tekst"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 250,
+    "domain": 5,
+    "question": "Een tekst waarin wordt beschreven hoe een bepaalde handeling of procedure moet worden uitgevoerd, zo als een recept of handleiding – met de bedoeling de handelingen van de lezer te sturen d.m.v. instructies – noem je een:",
+    "options": {
+      "a": "Directieve tekst",
+      "b": "Beschouwende tekst",
+      "c": "Argumentatieve tekst",
+      "d": "Verhalende tekst",
+      "e": "Informatieve tekst"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 251,
+    "domain": 5,
+    "question": "Een tekst waarin schrijvers naast een verslag van de werkelijkheid ook hun mening geven over een gebeurtenis of situatie, zoals een commentaar of recensie – met de bedoeling hun kijk op het probleem te geven en die veelal te onderbouwen – noem je een:",
+    "options": {
+      "a": "Beschouwende tekst",
+      "b": "Argumentatieve tekst",
+      "c": "Verhalende tekst",
+      "d": "Informatieve tekst",
+      "e": "Directieve tekst"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 252,
+    "domain": 5,
+    "question": "Een tekst waarin auteurs proberen de opvattingen van de lezer met argumenten te beïnvloeden, zoals een advertentietekst of sollicitatietekst – met de bedoeling de lezer te overreden, te overtuigen of over te halen om in actie te komen – noem je een:",
+    "options": {
+      "a": "Argumentatieve tekst",
+      "b": "Verhalende tekst",
+      "c": "Informatieve tekst",
+      "d": "Directieve tekst",
+      "e": "Beschouwende tekst"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 253,
+    "domain": 5,
+    "question": "De leerkracht dient kritisch naar een tekst te kijken die bestemd is voor zijn leerlingen , zo is bijvoorbeeld het belangrijk de informatiedichtheid van een tekst niet te hoog is. Met welk kenmerk houdt de leerkracht hier rekening?",
+    "options": {
+      "a": "De stijl van een tekst",
+      "b": "Het onderwerp van een tekst",
+      "c": "De structuur van een tekst",
+      "d": "De illustraties bij een tekst",
+      "e": "De moeilijkheidsgraad van een tekst"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 254,
+    "domain": 5,
+    "question": "Hoe kun je in een tekst denkrelaties herkennen?",
+    "options": {
+      "a": "Aan voegwoorden, signaalwoorden of verwijswoorden",
+      "b": "Aan leestekens",
+      "c": "Aan bijvoeglijke naamwoorden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 255,
+    "domain": 5,
+    "question": "Wanneer een schrijver van een tekst de lezer aanspoort tot het verrichten van een bepaalde handeling, dan is het tekstdoel:",
+    "options": {
+      "a": "Instrueren",
+      "b": "Amuseren",
+      "c": "Informeren",
+      "d": "Overtuigen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 256,
+    "domain": 5,
+    "question": "Welke van de volgende uitspraken is waar? I. Het jonge kind moet veel in aanraking komt met veel verschillende tekstsoorten II. Voor het jonge kind is Begrijpend luisteren het equivalent van begrijpend lezen III. Een goede woordenschat en technische leesvaardigheid zijn belangrijke voorwaarden voor het begrijpend lezen",
+    "options": {
+      "a": "Uitspraak I, II en III",
+      "b": "Uitspraak II.",
+      "c": "Uitspraak III."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 257,
+    "domain": 5,
+    "question": "Er zijn 2 manieren om informatie te verwerken. Lees onderstaande tekst. Bij … gaat het erom de nieuwe informatie te koppelen aan bestaande kennis, het creëren van nieuwe kennis en het gebruiken van die kennis. Naarmate kinderen ouder worden en meer ervaringen opdoen, gaan ze informatie efficiënter verwerken. Welke manier wordt hier omschreven?",
+    "options": {
+      "a": "Cognitie",
+      "b": "Perceptie*",
+      "c": "Motivatie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 258,
+    "domain": 5,
+    "question": "Een leerling die te laat binnen komt rennen, vertelt dat zijn wekker niet afging (…), dat hij het erg vervelend vindt dat hij nu te laat is (…) en dat hij daar spijt van heeft (…).",
+    "options": {
+      "a": "Conceptualisering, expressie, communicatie",
+      "b": "Expressie, communicatie, conceptualisering",
+      "c": "Communicatie, conceptualisering, expressie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 259,
+    "domain": 5,
+    "question": "Een leerling leest alleen de titel van een tekst (de rest van de tekst is nog afgeschermd) . De leerkracht vraagt aan de leerling waar hij denkt dat de tekst over zal gaan. Welk leestheoretisch model past de leerling toe?",
+    "options": {
+      "a": "De top-down visie (de lezer leest een tekstdeel en voorspelt wat erna komt)",
+      "b": "De bottum-up visie (de lezer werkt van beneden naar boven. Van losse woorden naar hele zinnen en de interpretatie van de hele tekst)",
+      "c": "Het interactieve model (de lezer gebruikt voortdurend relevante gegevens van zijn voorkennis, gegevens uit de tekst, wat leidt tot tekstbegrip)"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 260,
+    "domain": 5,
+    "question": "Functionele geletterdheid houdt in:",
+    "options": {
+      "a": "Geschreven taal kunnen hanteren in alle voorkomende maatschappelijke situaties",
+      "b": "Het vermogen te kunnen lezen en schrijven",
+      "c": "Het vergroten van je woordenschat"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 261,
+    "domain": 5,
+    "question": "Welke indicator wordt er vaak gebruikt om te bepalen of in het basisonderwijs een voldoende niveau van functionele geletterdheid bereikt is?",
+    "options": {
+      "a": "(Be)decodeervaardigheid: technisch lezen",
+      "b": "Betrokkenheid: lees- en schrijfmotivatie",
+      "c": "Tekstvaardigheid: begrijpend lezen en schrijven",
+      "d": "Strategische vaardigheid: informatieverwerving en kennisverwerving",
+      "e": "Leeswoordenschat",
+      "f": "Reflectie: functies en structuur van geschreven taal"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 262,
+    "domain": 5,
+    "question": "Leerlingen maken in een tekst kennis met programmeerbegrippen zoals algoritmes, patronen en variabelen. Zo ontwikkelt de leerling denkprocessen om met computertechnologie problemen op te lossen. Welk van de vier onderdelen is dit van digitale geletterdheid?",
+    "options": {
+      "a": "Computational thinking",
+      "b": "Basiskennis van ICT",
+      "c": "Informatievaardigheden",
+      "d": "Mediawijsheid"
+    },
+    "correct_answer": "a"
+  }
+]

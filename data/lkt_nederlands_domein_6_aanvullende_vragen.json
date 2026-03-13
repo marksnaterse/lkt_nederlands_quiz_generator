@@ -1,0 +1,688 @@
+[
+  {
+    "id": 263,
+    "domain": 6,
+    "question": "Welke twee overkoepelende stel strategieën ken je?",
+    "options": {
+      "a": "Het vertellend schrijven (knowledge telling strategy) en het denkend schrijven (knowledge transforming strategy).",
+      "b": "het zakelijk schrijven en het creatief schrijven",
+      "c": "Het zijn er drie, nl. voorbereidend, aanvankelijk en voortgezet stellen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 264,
+    "domain": 6,
+    "question": "Wat is het verschil tussen vertellend en denkend schrijven?",
+    "options": {
+      "a": "Vertellend schrijven is praten op papier waarbij de structuur van het verhaal wordt bepaald door de chronologie. De denkend schrijver schrijft om te communiceren en om greep te krijgen op het onderwerp en een doelgroep benadering te kiezen.",
+      "b": "denkend schrijven is een functionele taalactiviteit en vertellend schrijven vindt binnen de school plaats bij de integratie van vakken.",
+      "c": "denkend schrijven heeft een conceptualiserende functie en vertellend schrijven heeft een expressieve functie."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 265,
+    "domain": 6,
+    "question": "We kennen vijf aandachtspunten voor het aanleren van stellen. Welke 2 horen er niet bij:\n1. oriënteren op inhoud, doel vorm en eigen kennis\n2. een gedetailleerde beschrijving van de hoofdpersonen en hun context alvorens te beginnen aan het\nschrijfproces\n3. afstemmen van aanpak op doel en publiek\n4. bepalen of het doel bereikt wordt en de aanpak (zo nodig) bijstellen\n5. isoleren van de hoofdverhaallijn en de bijverhaallijnen\n6. evalueren van de tekst (zo nodig) reviseren\n7. reflecteren op de gehanteerde aanpak.",
+    "options": {
+      "a": "2 en 5",
+      "b": "2 en 7",
+      "c": "4 en 5"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 266,
+    "domain": 6,
+    "question": "We kennen 4 deelstrategieën binnen het schrijfproces Voor welke schrijfstrategie zijn deze specifiek?\n1. Hoe kom ik aan stof om over te schrijven?\n2. Hoe verwoord ik een bepaalde gedachte?\n3. Hoe bouw ik een verslag op?\n4. Hoe verleid ik de lezer om door te lezen?",
+    "options": {
+      "a": "Ze zijn niet specifiek voor een schrijfstrategie.",
+      "b": "1, 2, en 4 voor vertellend schijven en 3 voor denkend schrijven.",
+      "c": "1, 3 en 4 voor vertellend schijven en 2 voor denkend schrijven."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 267,
+    "domain": 6,
+    "question": "Wat zijn de 4 belangrijkste doelstellingen van een tekst?",
+    "options": {
+      "a": "informeren – overtuigen - amuseren - instrueren",
+      "b": "informeren - emotioneren - aansporen – meningsvorming",
+      "c": "informeren – herkenning laten ervaren – kennis overdragen – verpozing"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 268,
+    "domain": 6,
+    "question": "Hoe komt een schrijver aan inhoud? Kies het meest volledige antwoord",
+    "options": {
+      "a": "Hij verzamelt en selecteert en ordent informatie",
+      "b": "hij raadpleegt bronnen en selecteert alleen bruikbare informatie",
+      "c": "hij vindt omissies in eerdere publicaties en zoekt naar bronnen voor andere invalshoeken"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 269,
+    "domain": 6,
+    "question": "Noem de 3 elementen van de meest algemene tekststructuur",
+    "options": {
+      "a": "inleiding – kern – slot.",
+      "b": "Wie – wat – waar",
+      "c": "Wie - wat – waarom"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 270,
+    "domain": 6,
+    "question": "Noem 3 voorbeelden van meer specifieke tekststructuren",
+    "options": {
+      "a": "Stapelstructuur, verhaalstructuur, betoogstructuur",
+      "b": "vraag-antwoordstructuur; voorwaardelijke structuur en chronologische volgorde",
+      "c": "Chronologische, A-chronologische structuur en de betoog structuur"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 271,
+    "domain": 6,
+    "question": "Noem 3 voorbeelden van een tekst met een stapelstructuur",
+    "options": {
+      "a": "telefoonboek, boodschappenlijstje, leerboek van een schoolvak.",
+      "b": "Een feuilleton, een boekenserie, scripts van een tv-serie",
+      "c": "Een receptenboek, een bouwinstructie, een serie krantenartikelen met een afgebakend thema."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 272,
+    "domain": 6,
+    "question": "Een tekststructuur is gebaseerd op …?",
+    "options": {
+      "a": "Het onderwerp en de communicatieve situatie.",
+      "b": "De doelgroep en het medium",
+      "c": "de schrijfstrategie en het doel van de tekst"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 273,
+    "domain": 6,
+    "question": "Hoe helpt de keuze van een schrijfstructuur bij het schrijfproces?",
+    "options": {
+      "a": "De structuur voorziet in een schema of bouwplan voor het schrijfproces.",
+      "b": "de structuur voorziet in een verhaallijn en de positionering van de personages",
+      "c": "de structuur biedt houvast bij het onderscheiden van feiten, opvattingen en meningen van de schrijver en anderen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 274,
+    "domain": 6,
+    "question": "Wat is formuleren?",
+    "options": {
+      "a": "Het verwoorden en op papier zetten van inhoud",
+      "b": "de aansluiting vinden tussen doel van de tekst en de doelgroep",
+      "c": "feiten van meningen, opvattingen en gevoelens onderscheiden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 275,
+    "domain": 6,
+    "question": "Hoe verloopt het proces van formuleren",
+    "options": {
+      "a": "woorden →zinnen→ alinea’s → complete tekst",
+      "b": "de schrijver past de regels voor spelling en interpunctie toe.",
+      "c": "De schrijver schaaft de tekst bij zodat deze bij de doelgroep past."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 276,
+    "domain": 6,
+    "question": "Wat is reviseren?",
+    "options": {
+      "a": "De tekst herlezen en herzien",
+      "b": "De schrijver reflecteert op de tekst",
+      "c": "De redacteur checkt de feiten"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 277,
+    "domain": 6,
+    "question": "Waarop kan gereviseerd worden",
+    "options": {
+      "a": "de structuur - de inhoud - de formulering - de spelling en de interpunctie",
+      "b": "De formulering - de spelling en de interpunctie",
+      "c": "het doel van de tekst en de hoofdstuk- of paragraaf indeling"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 278,
+    "domain": 6,
+    "question": "Wat betekent 'verzorgen' in de context van stellen",
+    "options": {
+      "a": "een passende vormgeving en lay-out kiezen, evt illustraties toevoegen en controle op schrijf- &\nspelfouten",
+      "b": "De opmaak van de tekst en de vormgeving van de kaft of het artikel",
+      "c": "hcontrole op schrijf- & spelfouten en interpunctie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 279,
+    "domain": 6,
+    "question": "Wanneer vindt ‘verzorgen’ plaats?",
+    "options": {
+      "a": "aan het eind van de schrijfactiviteit.",
+      "b": "voor het reviseren van de tekst",
+      "c": "voor het vaststellen van de budgettering van de publicatie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 280,
+    "domain": 6,
+    "question": "Wat is reflectie op het schrijfgedrag",
+    "options": {
+      "a": "De schrijver kijkt (van een afstandje) naar zichzelf en denkt na over zijn schrijfactiviteit.",
+      "b": "bepalen of het doel bereikt wordt en de aanpak (zo nodig) bijstellen",
+      "c": "Een vervolg op de schrijfactiviteit bedenken"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 281,
+    "domain": 6,
+    "question": "Noem twee onderwerpen van reflectie op schrijfgedrag?",
+    "options": {
+      "a": "de schrijfactiviteit (het proces) en de tekst (het product).",
+      "b": "de oplage en de prijs van het boek of ontvangen gage",
+      "c": "de aansluiting tussen de formulering en de doelgroep en de recenties"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 282,
+    "domain": 6,
+    "question": "Welk doel heeft reflectie?",
+    "options": {
+      "a": "de onderdelen van het schrijfproces met elkaar in verband te brengen",
+      "b": "het de volgende keer beter doen",
+      "c": "de schrijver wordt zich bewust van zijn valkuilen en onbekwaamheden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 283,
+    "domain": 6,
+    "question": "Wat is geen voorbeeld van een reflectie?",
+    "options": {
+      "a": "Een redactievergadering",
+      "b": "Een [stuk] tekst toetsen aan het oorspronkelijke schrijfdoel",
+      "c": "Een [stuk] tekst toetsen aan de schrijvers kennis van het onderwerp."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 284,
+    "domain": 6,
+    "question": "Wat verstaat men in de taalwetenschap onder ‘tekst’?",
+    "options": {
+      "a": "Zowel mondeling als schriftelijk taalgebruik.",
+      "b": "Alle geschreven tekst",
+      "c": "Communicatieve en zakelijke teksten",
+      "d": "Woorden →zinnen→ alinea’s → complete tekst"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 285,
+    "domain": 6,
+    "question": "Geef 2 voorbeelden van een mondelinge tekst",
+    "options": {
+      "a": "Een interview met een acteur of een toespraak van de minister-president.",
+      "b": "Een mondelinge tekst bestaat niet in de context van stellen",
+      "c": "Een transcript van een gesprek of een monoloog in een toneelstuk"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 286,
+    "domain": 6,
+    "question": "Wat verstaat men in de taalwetenschap niet onder ‘geschreven tekst’?",
+    "options": {
+      "a": "‘leesteksten’ in een lesboek die door de leerling/lezer worden gelezen",
+      "b": "Een gedrukt verhaal",
+      "c": "een product van schrijfactiviteiten."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 287,
+    "domain": 6,
+    "question": "Waartoe dient kennis van tekstsoorten?",
+    "options": {
+      "a": "Dat helpt de lezer en de schrijver bij het bepalen van lees- en schrijfstrategieën",
+      "b": "Dat vergroot de kennis van de schrijver zodat hij meer weet over zijn thema",
+      "c": "Dat vergroot de professionaliteit van het schrijfproces"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 288,
+    "domain": 6,
+    "question": "Aarnoutse & Verhoeven (2003) onderscheiden 5 soorten teksten. Welke hoort er niet bij?",
+    "options": {
+      "a": "Expressieve tekst [weergave van eigen mening en onderbouwde visie, doel: overtuigen]",
+      "b": "Verhalende tekst [fictie of persoonlijke weergave van de realiteit; doel: amusement[.",
+      "c": "Informatieve tekst [kranten, studieboeken en encyclopedieën; doel: kennis] .",
+      "d": "Directieve tekst [doel: instructie, zoals een recept of een handleiding.",
+      "e": "Beschouwende tekst [combinatie van verslag en opinie, zoals een recensie]",
+      "f": "Argumentatieve tekst [doel: beïnvloeden, overtuigen of activeren, zoals advertenties of sollicitaties."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 289,
+    "domain": 6,
+    "question": "de leerlijn schrijven kent vier onderdelen. Welke?",
+    "options": {
+      "a": "Beschrijven, Instrueren, Argumenteren en Fictie & Expressie",
+      "b": "Zakelijk schrijven, expressief schrijven, instructie schrijven Informatief schrijven",
+      "c": "Denkend schrijven, vertellend schrijven, expressief schrijven, verhalend schrijven."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 290,
+    "domain": 6,
+    "question": "Van Norden (2017) hanteert voor de basisschool 3 categorieën tekstsoorten. Welke?",
+    "options": {
+      "a": "Verhalende genres (meeslepen): Feitelijke genres (informeren), Evaluerende genres (oordeel geven):",
+      "b": "Beschrijven, Instrueren, Argumenteren",
+      "c": "expressief schrijven, verhalend schrijven Informatief schrijven"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 291,
+    "domain": 6,
+    "question": "Van Norden (2017) deelt de verhalende categorie in 2 genres. Welke?",
+    "options": {
+      "a": "ervaring/vertelling en het verhaal",
+      "b": "beschouwing en betoog",
+      "c": "procedure en verklaring/uiteenzetting."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 292,
+    "domain": 6,
+    "question": "Van Norden (2017) deelt de feitelijke categorie in 4 genres. Welke?",
+    "options": {
+      "a": "procedure en verklaring/uiteenzetting en historie, verslag/beschrijving",
+      "b": "ervaring/vertelling en het verhaal en beschouwing en betoog",
+      "c": "beschouwing en betoog en historie en verklaring/uiteenzetting."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 293,
+    "domain": 6,
+    "question": "Van Norden (2017) deelt de evaluerende categorie in 2 genres. Welke?",
+    "options": {
+      "a": "beschouwing en betoog",
+      "b": "procedure en verklaring/uiteenzetting",
+      "c": "historie en verslag/beschrijving"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 294,
+    "domain": 6,
+    "question": "Op niveau F1 voor groep 8 worden 12 tekstsoorten genoemd. Welke hoort er niet bij?",
+    "options": {
+      "a": "instructie",
+      "b": "verslag,",
+      "c": "werkstuk,",
+      "d": "verhaal,",
+      "e": "informatieve tekst,",
+      "f": "gedicht,",
+      "g": "briefje,",
+      "h": "kaart,",
+      "i": "e-mail,",
+      "j": "kort bericht,",
+      "k": "een boodschap met eenvoudige informatie,",
+      "l": "eenvoudige standaardformulieren",
+      "m": "aantekeningen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 295,
+    "domain": 6,
+    "question": "Welk leerdoel is verbonden aan tekstkenmerken?",
+    "options": {
+      "a": "Het leggen van verbanden tussen de tekstsoort enerzijds en anderzijds de inhoud (thema), de vorm (taalgebruik en structuur) en het doel.",
+      "b": "Het leggen van verbanden tussen het doel van de tekst enerzijds en anderzijds de relati e tussen de doelgroep en het taalgebruik",
+      "c": "Het leggen van verbanden tussen de schrijfstrategie enerzijds en anderzijds de relatie tussen de aanpak en het doel van de tekst."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 296,
+    "domain": 6,
+    "question": "Noem 3 tekstkenmerken",
+    "options": {
+      "a": "Structuur, Taalgebruik, Doel",
+      "b": "Doel, doelgroep, formulering",
+      "c": "Opmaak van de tekst, formulering, doelgroep."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 297,
+    "domain": 6,
+    "question": "Welke functies hebben tekstkenmerken?",
+    "options": {
+      "a": "Tekstkenmerken spelen een rol bij het lezen, begrijpen en schrijven van een tekst en zijn bepalend voor de moeilijkheidsgraad van de tekst",
+      "b": "Tekstkenmerken stellen de schrijver in staat om van het doel te realiseren",
+      "c": "Tekstkenmerken spelen een rol bij het bereiken van de doelgroep en het overbrengen van de boodschap."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 298,
+    "domain": 6,
+    "question": "Noem de 4 belangrijkste doelstellingen van een tekst:",
+    "options": {
+      "a": "informeren overtuigen, amuseren, instrueren",
+      "b": "samenvatten, klagen, aanvragen, argumenteren",
+      "c": "vragen, antwoorden, instrueren argumenteren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 299,
+    "domain": 6,
+    "question": "Wat is het doel van het ordenen van informatie?",
+    "options": {
+      "a": "de lezer kan de gedachtegang volgen en het schrijfdoel kan worden bereikt.",
+      "b": "De formulering sluit aan bij de doelgroep",
+      "c": "De feiten scheiden van meningen en opvattingen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 300,
+    "domain": 6,
+    "question": "Wat zijn denkrelaties ?",
+    "options": {
+      "a": "cognitieve relaties tussen woorden en zinnen",
+      "b": "cognitieve relaties tussen alinea’s onderling",
+      "c": "oorzaak en gevolgrelaties tussen argumenten"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 301,
+    "domain": 6,
+    "question": "Hoe kunnen we denkrelaties aanbrengen",
+    "options": {
+      "a": "Met voegwoorden, signaalwoorden of verwijswoorden.",
+      "b": "Met argumentatie",
+      "c": "Door informatie en duiding"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 302,
+    "domain": 6,
+    "question": "Er zijn 6 soorten denkrelaties tussen zinnen. Welke hoort er niet bij?",
+    "options": {
+      "a": "Argumenten",
+      "b": "vraag-antwoordstructuren;",
+      "c": "chronologische volgorde (en toen);",
+      "d": "voorbeelden;",
+      "e": "vergelijkingen (maar);",
+      "f": "middel-doelrelaties (want);",
+      "g": "voorwaardelijke structuren (als)."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 303,
+    "domain": 6,
+    "question": "Welke vaardigheden zijn nodig voor leggen van denkrelaties in en derhalve het begrijpen van een tekst?",
+    "options": {
+      "a": "zowel grammaticale als cognitieve vaardigheden.",
+      "b": "Formuleren en interpunctie.",
+      "c": "Begrijpend lezen en kennis van het thema van de tekst."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 304,
+    "domain": 6,
+    "question": "Hoe kan de leerkracht kleuters stimuleren de noodzaak van schrijven te ontdekken?",
+    "options": {
+      "a": "door uiteenlopende en functionele schrijfactiviteiten uit te lokken in betekenisvolle situaties.",
+      "b": "Door een betekenisvolle leeromgeving met letters in de klas te maken",
+      "c": "Door veel voor te lezen en de woordenschat te vergroten"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 305,
+    "domain": 6,
+    "question": "Welk inzicht is nodig om kleuters te stimuleren de noodzaak van schrijven te ontdekken?",
+    "options": {
+      "a": "De startbekwame leerkracht heeft inzicht in de kenmerken van de ontwikkeling van het jonge kind op het gebied van de stelvaardigheid.",
+      "b": "De startbekwame leerkracht heeft inzicht in de opbouw van de leerdoelen stellen van het jonge kind",
+      "c": "De startbekwame leerkracht heeft inzicht in de motorische ontwikkeling van het jonge kind in relatie tot de ontwikkeling van de symboolherkenning."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 306,
+    "domain": 6,
+    "question": "Het schrijven van teksten vervult 3 functies tegelijkertijd. Welke hoort er niet bij?",
+    "options": {
+      "a": "Een informerende functie",
+      "b": "een communicatieve functie [het doel bereiken];",
+      "c": "een conceptualiserende functie [greep krijgen op de werkelijkheid];",
+      "d": "een expressieve functie [uiten van gevoelens en verlangens}."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 307,
+    "domain": 6,
+    "question": "In dit voorbeeld worden meerdere functies tegelijk gerealiseerd. Welke klachtenbrief aan de gemeente: bij herhaling is de vuilcontainer niet geleegd ik ben daar erg boos over en wil graag dat dit in het vervolg niet meer gebeurt",
+    "options": {
+      "a": "conceptualisering, expressie. communicatie",
+      "b": "informatie, emotie, vraag",
+      "c": "informatie, expressie, eis"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 308,
+    "domain": 6,
+    "question": "Noem3 voorbeelden van communicatieve functie",
+    "options": {
+      "a": "Memo’s, advertenties en folders",
+      "b": "Reclame, agenda van een vergadering, uitnodiging",
+      "c": "E-mail, klachtenbrief, aanmaken van een FaceBook-evenement"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 309,
+    "domain": 6,
+    "question": "Noem 3 voorbeelden van conceptualiserende functie",
+    "options": {
+      "a": "artikelen, studieboeken en verslagen.",
+      "b": "Scriptie, evaluatieformulieren, motie in de 2ekamer",
+      "c": "Dissertatie, promotieonderzoek, ondernemingsplan"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 310,
+    "domain": 6,
+    "question": "Noem 3 voorbeelden van expressieve functie",
+    "options": {
+      "a": "dagboeken, gedichten en literaire teksten",
+      "b": "Speech van de minister president, proza, klachtenbrief",
+      "c": "Songteksten, een informeel gesprek tussen vrienden, pamflet"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 311,
+    "domain": 6,
+    "question": "Uit welke 3 componenten bestaat het schrijfproces?",
+    "options": {
+      "a": "De kennis van de schrijver, communicatieve situatie en het eigenlijke schrijfproces",
+      "b": "Het raadplegen van bronnen, ordenen van de informatie en doelgericht schrijven",
+      "c": "Oriëntatie op het thema, doel en doelgroep en vervolgens schrijven"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 312,
+    "domain": 6,
+    "question": "een schrijver put tijdens het schrijfproces uit 4 soorten kennis Welke hoort er niet bij?",
+    "options": {
+      "a": "kennis over de schrijf strategieën",
+      "b": "kennis over het onderwerp van de tekst (conceptuele kennis);",
+      "c": "kennis over het taalsysteem (woordgebruik, zinsbouw, spelling);",
+      "d": "kennis over het retorisch systeem (tekstsoorten, stijl, publiek- & doelgerichtheid)",
+      "e": "kennis over schrijfprocedures (oriënteren, plannen, formuleren, reviseren)."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 313,
+    "domain": 6,
+    "question": "Wat wordt bedoeld met de communicatieve situatie waarin de schrijver werkt?",
+    "options": {
+      "a": "de zg. taakomgeving ofwel de context waarin de schrijftaak plaatsvindt",
+      "b": "de taalbeheersing van de schrijver in algemene zin",
+      "c": "de fysieke omgeving waarin de schrijftaak plaats vindt verzamelen, selecteren en ordenen inhoud; communicatieve competentie; cognitieve taalfuncties."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 314,
+    "domain": 6,
+    "question": "Welke onderstaande zinnen beschrijven een communicatieve situatie?",
+    "options": {
+      "a": "de journalist die, aanhikkend tegen de deadline, een interview uitschrijft.",
+      "b": "De migrant die de taal nog niet machtig is en een formulier moet invullen",
+      "c": "Het jonge kind dat letters verkeerd om schrijft in de klas"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 315,
+    "domain": 6,
+    "question": "het eigenlijke schrijfproces bestaat uit 3 fasen. Deze fasen beïnvloeden elkaar sterk en zijn recursief. Welke hoort er niet bij?",
+    "options": {
+      "a": "Oriëntatie op het thema",
+      "b": "Plannen [onderwerpkeuze, grove outline]",
+      "c": "schrijven [omzetten gedachten in geschreven taal door keuzes in formulering en toepassing van taalregels voor spelling en interpunctie (coderen)",
+      "d": "reviseren [veranderen van formulering, inhoud, ordening, spelling en interpunctie]"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 316,
+    "domain": 6,
+    "question": "Wat verstaan we onder ‘functionele geletterdheid’ ?",
+    "options": {
+      "a": "kennis en vaardigheden om te functioneren in een geletterde samenleving met hoge eisen aan schriftelijke communicatie en informatieverwerking.",
+      "b": "Het kunnen lezen en schrijven van elementaire huis-tuin- en – keuken communicatie",
+      "c": "De leerlingen die voldoen aan de taaleisen passend bij hun niveau"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 317,
+    "domain": 6,
+    "question": "Binnen het basisonderwijs niveau 1F worden 4 voorbeelden van functionele geletterdheid omschreven [Aarnoutse & Verhoeven (2003)]. Welke hoort er niet bij?",
+    "options": {
+      "a": "De krant lezen",
+      "b": "verkeersborden juist interpreteren",
+      "c": "een spoorboekje gebruiken",
+      "d": "ondertiteling op de televisie te begrijpen",
+      "e": "een handleiding te lezen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 318,
+    "domain": 6,
+    "question": "Welke indicator wordt in het basisonderwijs gebruikt voor functionele geletterdheid?",
+    "options": {
+      "a": "de decodeervaardigheid (technisch lezen)",
+      "b": "De spellingstoets",
+      "c": "De Cito toets"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 319,
+    "domain": 6,
+    "question": "Hoeveel % van de leerlingen heeft na basisschool een leesachterstand?",
+    "options": {
+      "a": "Ongeveer 10%.",
+      "b": "Minder dan 10%",
+      "c": "Ongeveer 20 %"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 320,
+    "domain": 6,
+    "question": "Welk risicolopen kinderen met een leerachterstand?",
+    "options": {
+      "a": "Zij lopen het risico functioneel analfabeet te worden.",
+      "b": "Hen wacht een achterstand op de arbeidsmarkt.",
+      "c": "Zij lopen het risico op maatschappelijke isolatie."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 321,
+    "domain": 6,
+    "question": "Wat is digitale geletterdheid méér dan het omgaan met een computer?",
+    "options": {
+      "a": "Het verzamelen, interpreteren en creëren van digitale informatie teneinde de digitale wereld optimaal te benutten.",
+      "b": "Het vermogen om nepnieuws te onderscheiden, mening van feiten te onderscheiden en de eigen mening te vormen uit verschillende bronnen",
+      "c": "Het op een veilige manier deelnemen aan sociaal media."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 322,
+    "domain": 6,
+    "question": "Digitale geletterdheid bestaat uit 4 onderdelen? Welke hoort er niet bij?",
+    "options": {
+      "a": "Basis kennis van hardware",
+      "b": "kennis van digitale middelen om bestaande technologieën te benutten en ontwikkelingen te volgen.",
+      "c": "Informatievaardigheden: beoordelen of de informatie betrouwbaar is.",
+      "d": "Mediawijsheid: de leerling kan verantwoord omgaan met de media.",
+      "e": "Computational thinking: de leerling ontwikkelt denkprocessen om met computertechnologie problemen op te lossen."
+    },
+    "correct_answer": "a"
+  }
+]

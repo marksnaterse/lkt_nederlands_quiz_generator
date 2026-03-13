@@ -1,0 +1,599 @@
+[
+  {
+    "id": 177,
+    "domain": 4,
+    "question": "Het lezen van woorden op –ig en op –lijk is een oefening op",
+    "options": {
+      "a": "fonologisch niveau",
+      "b": "morfologisch niveau",
+      "c": "semantisch niveau"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 178,
+    "domain": 4,
+    "question": "Radende lezers en spellende lezers",
+    "options": {
+      "a": "hebben meestal hetzelfde basisprobleem: de klank-letterkoppeling is onvoldoende",
+      "b": "hebben verschillende problemen. Een spellende lezer is teveel gericht op een juiste klank- letterkoppeling en een radende teveel op de betekenis van woorden/zinnen",
+      "c": "beide antwoorden zijn onjuist"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 179,
+    "domain": 4,
+    "question": "Welke bewering is juist?",
+    "options": {
+      "a": "een tekst met een vertrouwde context lees je makkelijker top-down dan een tekst over een onbekend onderwerp.",
+      "b": "Een tekst met een vertrouwde context lees je moeilijker top-down dan een tekst over een onbekend onderwerp.",
+      "c": "of de context vertrouwd is of niet maakt niet uit bij het lezen van een top-down tekst."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 180,
+    "domain": 4,
+    "question": "Welke bewering is juist?",
+    "options": {
+      "a": "Bij de elementaire leeshandeling splits je een geschreven woord op in grafemen en koppelt daar de bijbehorende morfemen aan.",
+      "b": "Bij de elementaire leeshandeling splits je een geschreven woord op in fonemen en koppelt daar de bijbehorende grafemen aan.",
+      "c": "Bij de elementaire leeshandeling splits je een geschreven woord op in grafemen en koppelt daar de bijbehorende fonemen aan"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "id": 181,
+    "domain": 4,
+    "question": "Bij BAVI-lezen staat de B voor:",
+    "options": {
+      "a": "beleving",
+      "b": "bouw",
+      "c": "BAVI-lezen bestaat helemaal niet"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 182,
+    "domain": 4,
+    "question": "In het woord struik onderscheiden wij:",
+    "options": {
+      "a": "Vijf grafemen en vijf fonemen",
+      "b": "Zes grafemen en vijf fonemen",
+      "c": "Zes grafemen en zes fonemen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 183,
+    "domain": 4,
+    "question": "In welke zin is de interpunctie correct?",
+    "options": {
+      "a": "ADO Den Haag dat dit jaar verrassend goed speelt, trekt steeds meer publiek.",
+      "b": "ADO Den Haag, dat dit jaar verrassend goed speelt, trekt steeds meer publiek.",
+      "c": "Geen van beide"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 184,
+    "domain": 4,
+    "question": "Waar zien we een spellingpatroon?",
+    "options": {
+      "a": "Meeuw – geeuw – leeuw",
+      "b": "Wortel – broccoli – pizza",
+      "c": "Fiets – ambulance –auto"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 185,
+    "domain": 4,
+    "question": "Bij welk van de volgende woorden ligt de klemtoon op de tweede lettergreep",
+    "options": {
+      "a": "Plantsoen",
+      "b": "Flessen",
+      "c": "Fietstas"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 186,
+    "domain": 4,
+    "question": "Een leerling is helemaal niet gemotiveerd om te leren lezen en dit kan zijn leesontwikkeling belemmeren. Wat heeft deze leerling niet?",
+    "options": {
+      "a": "Leesmotivatie",
+      "b": "Leesonderwijs",
+      "c": "Leesattitude"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 187,
+    "domain": 4,
+    "question": "Een leerling herkent woorden direct woorddelen in een woord. Van welk leesstrategie maakt deze leerling gebruik van? Lezen met behulp van:",
+    "options": {
+      "a": "Morfologische analyse",
+      "b": "Visuele analyse",
+      "c": "Auditieve analyse"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 188,
+    "domain": 4,
+    "question": "Door wat wordt de leessnelheid van een leerling met name bepaald?",
+    "options": {
+      "a": "Visuele woordvorming",
+      "b": "Woordlengte",
+      "c": "Zinsmelodie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 189,
+    "domain": 4,
+    "question": "Een leerling ziet een woord en ziet direct wat er staat zonder dat erover nagedacht moet worden. Dit noemen we:",
+    "options": {
+      "a": "Directe woordherkenning",
+      "b": "Automatiseren",
+      "c": "Visuele analyse"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 190,
+    "domain": 4,
+    "question": "Wat is een grafeem?",
+    "options": {
+      "a": "Het kleinste deel van een woord in een geschreven taal dat een klank representeert",
+      "b": "Het kleinste deel van een woord in een gesproken taal dat een klank representeert",
+      "c": "Het kleinste deel van een woord in een geschreven of gesproken taal dat een letter representeert"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 191,
+    "domain": 4,
+    "question": "Wat is de eerste leesstrategie die de leerling zich eigen maakt?",
+    "options": {
+      "a": "Elementaire leeshandeling",
+      "b": "Primaire leeshandeling",
+      "c": "Tertiaire leeshandeling"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 192,
+    "domain": 4,
+    "question": "Wat is automatiseren?",
+    "options": {
+      "a": "Het vlot, vloeiend, foutloos, en wendbaar eigen maken van een vaardigheid.",
+      "b": "Het vlot, vloeiend, foutloos, en spontaan eigen maken van een vaardigheid.",
+      "c": "Het vlot, vloeiend, foutloos, en instinctief eigen maken van een vaardigheid."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 193,
+    "domain": 4,
+    "question": "Wat wordt er bedoeld met functioneel analfabetisme?",
+    "options": {
+      "a": "Het hebben van een dusdanig leesniveau dat je je niet kunt redden in een geletterde maatschappij",
+      "b": "Het niet kunnen schrijven en daardoor dus niet mee kunnen gaan in de maatschappij",
+      "c": "Het niet kunnen lezen en schrijven van woorden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 194,
+    "domain": 4,
+    "question": "Met de AVI-toets wordt het vaardigheidsniveau en de ontwikkeling van de leerlingen op het gebied van technisch lezen in kaart gebracht. Het gaat er vooral om dat:",
+    "options": {
+      "a": "Leerlingen nauwkeurig en vlot een tekst kunnen verklanken.",
+      "b": "Leerlingen nauwkeurig een tekst kunnen verklanken.",
+      "c": "Leerlingen vlot een tekst kunnen verklanken."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 195,
+    "domain": 4,
+    "question": "De opbouw van de leesfasen is als volgt:",
+    "options": {
+      "a": "Voorbereidend lezen → aanvankelijk lezen → voortgezet lezen.",
+      "b": "Aanvankelijk lezen → voortgezet lezen → voorbereidend lezen.",
+      "c": "Voortgezet lezen → voorbereidend lezen → aanvankelijk lezen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 196,
+    "domain": 4,
+    "question": "De decodeersnelheid verhogen is een doel van:",
+    "options": {
+      "a": "Voortgezet technisch lezen.",
+      "b": "Aanvankelijk lezen.",
+      "c": "Voorbereidend lezen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 197,
+    "domain": 4,
+    "question": "Een kenmerk van dyslexie is:",
+    "options": {
+      "a": "Didactisch resistentie en moeite met de foneem-/grafeemkoppeling.",
+      "b": "Didactisch resistentie.",
+      "c": "Moeite met de foneem-/grafeemkoppeling."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 198,
+    "domain": 4,
+    "question": "Wat zijn achtereenvolgens de stappen die je volgt bij het bottom-up model",
+    "options": {
+      "a": "Herkennen van de letters → opbouw van woorden en woordgroepen → betekenis wordt toegekend aan de zin.",
+      "b": "Opbouw van woorden en woordgroepen → betekenis wordt toegekend aan de zin → herkennen van de letters.",
+      "c": "Betekenis wordt toegekend aan de zin → herkennen van de letters → opbouw van woorden en woordgroepen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 199,
+    "domain": 4,
+    "question": "Men hanteert 5 criteria om te bepalen hoe moeilijk het technisch lezen van een tekst is, waaronder de bekendheid van woorden in de tekst, de diversiteit in het woordgebruik, en het aantal woorden. Welke criteria zijn bepalende factoren voor de technische leesmoeilijkheid?",
+    "options": {
+      "a": "Woordlengte en woordfrequentie.",
+      "b": "Woordlengte en zinslengte.",
+      "c": "Woordfrequentie en zinslengte."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 200,
+    "domain": 4,
+    "question": "Voor instructie bij het voortgezet technisch lezen hanteert men 7 uitgangspunten, waaro nder ondersteuning bij het lezen, aandacht voor begrijpend lezen, instructie voor/tijdens/na, het goed laten voorbereiden van teksten en:",
+    "options": {
+      "a": "Werken aan motivatie/leesplezier, functionele oefensituaties en aandacht voor het lezen van woorden, zinnen en teksten.",
+      "b": "Functionele oefensituaties en aandacht voor het lezen van woorden, zinnen en teksten.",
+      "c": "Functionele oefensituaties en aandacht voor het lezen van woorden."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 201,
+    "domain": 4,
+    "question": "Wat is juist? Stelling 1: Bij modelen zegt de leerkracht hardop welke stappen hij/zij maakt in het hoofd. Stelling 2: Bij modelen zegt de leerkracht wat er in de tekst staat.",
+    "options": {
+      "a": "Stelling 1 is juist, stelling 2 is onjuist.",
+      "b": "Beide stellingen zijn juist.",
+      "c": "Beide stellingen zijn onjuist.",
+      "d": "Stelling 1 is onjuist, stelling 2 is juist."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 202,
+    "domain": 4,
+    "question": "De juiste volgorde van de elementaire leeshandeling is:",
+    "options": {
+      "a": "Van links naar rechts kunnen koppelen van fonemen aan grafemen→auditieve synthese→betekenis geven.",
+      "b": "Auditieve synthese→betekenis geven→Van links naar rechts kunnen koppelen van fonemen aan.",
+      "c": "Betekenis geven → Van links naar rechts kunnen koppelen van fonemen aan → auditieve synthese."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 203,
+    "domain": 4,
+    "question": "Vanaf welke groep is volgens de kerndoelen sprake van voortgezet technisch lezen?",
+    "options": {
+      "a": "Groep 4.",
+      "b": "Groep 5.",
+      "c": "Groep 6."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 204,
+    "domain": 4,
+    "question": "Wat is juist? Stelling 1: Leerlingen een tekst niet vrijblijvend door te laten lezen, maar ze hierbij aanwijzingen te geven is zinvol. Stelling 2: Leerlingen een tekst vrijblijvend door te laten lezen en ze hierbij geen aanwijzingen te geven is zinvol.",
+    "options": {
+      "a": "Stelling 1 is juist, stelling 2 is onjuist.",
+      "b": "Beide stellingen zijn juist.",
+      "c": "Beide stellingen zijn onjuist.",
+      "d": "Stelling 1 is onjuist, stelling 2 is juist."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 205,
+    "domain": 4,
+    "question": "Lezen kan m.b.v. clusters en spellingpatronen, wat houden deze begrippen in?",
+    "options": {
+      "a": "Clusters zijn medeklinkercombinaties, spellingspatronen zijn klinker - en medeklinkercombinaties.",
+      "b": "Clusters zijn klinker- en medeklinkercombinaties, spellingspatronen zijn medeklinkercombinaties.",
+      "c": "Clusters zijn medeklinkercombinaties, spellingspatronen zijn klinkercombinaties.",
+      "d": "Clusters zijn klinkercombinaties, spellingspatronen zijn klinkercombinaties."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 206,
+    "domain": 4,
+    "question": "Bij welke manier van AVI-lezen staat leesbeleving voorop?",
+    "options": {
+      "a": "BAVI-Lezen",
+      "b": "Cito lezen",
+      "c": "Tempo lezen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 207,
+    "domain": 4,
+    "question": "Bij de indeling van leesboeken wordt rekening gehouden met het leestechnisch niveau, interesse, thema, leeservaring en de complexiteit van de verhaalopbouw Welke indeling komt het vaakst voor?",
+    "options": {
+      "a": "Leestechnisch niveau",
+      "b": "Leeservaring",
+      "c": "Complexiteit van het verhaal"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 208,
+    "domain": 4,
+    "question": "Wat houdt leesteksten in?",
+    "options": {
+      "a": "Teksten die gelezen worden.",
+      "b": "Boeken die voorgelezen worden.",
+      "c": "Teksten die worden ingedeeld in leestechnisch niveau."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 209,
+    "domain": 4,
+    "question": "Wat houdt leesmotivatie in?",
+    "options": {
+      "a": "De mate waarin een leerling gemotiveerd is om te (leren) lezen.",
+      "b": "Teksten die worden gelezen.",
+      "c": "Tempo lezen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 210,
+    "domain": 4,
+    "question": "Wat houdt voordracht aspecten in?",
+    "options": {
+      "a": "De lezer beschikt over technieken om een tekst voor te lezen.",
+      "b": "De lezer leest een tekst in een goed tempo.",
+      "c": "De mate waarin een leerling gemotiveerd is om te leren lezen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 211,
+    "domain": 4,
+    "question": "Wat doe je tijdens een leesproces?",
+    "options": {
+      "a": "Het verwerken van visuele informatie bij het decoderen van tekst.",
+      "b": "Het verwerken van auditieve informatie.",
+      "c": "Het verwerken van visuele en auditieve informatie bij het decoderen van tekst."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 212,
+    "domain": 4,
+    "question": "Wanneer heeft iemand last van functioneel analfabetisme?",
+    "options": {
+      "a": "Iemand is functioneel analfabeet wanneer zijn leesniveau zo laag is dat hij zich niet kan redden in een geletterde maatschappij.",
+      "b": "Iemand is functioneel analfabeet wanneer zijn leesniveau en rekenniveau zo laag is dat hij zich niet kan redden in een geletterde maatschappij.",
+      "c": "Iemand is functioneel analfabeet wanneer hij bepaalde teksten niet kan lezen zoals informatieve teksten."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 213,
+    "domain": 4,
+    "question": "De speciaal op deze niveaus geschreven boekjes wisselen sterk in k waliteit. In verband met de indeling in technische moeilijkheidsgraad wordt de auteur een groot aantal beperkingen opgelegd, wat het taalgebruik vaak houterig maakt en het verhaal moeilijk te volgen. Dit noemen we:",
+    "options": {
+      "a": "BAVI-lezen",
+      "b": "AVI-lezen",
+      "c": "CAVI- lezen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 214,
+    "domain": 4,
+    "question": "De bekendste indeling van teksten is die van de jeugdafdeling in openbare bibliotheken, is de indeling voor leeftijdsopbouw en voor informatieve kinderboeken. Welke onderstaande letter verwijst naar ‘informatieve kinderboeken’?",
+    "options": {
+      "a": "‘i’",
+      "b": "‘j’",
+      "c": "‘k’"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 215,
+    "domain": 4,
+    "question": "De bekendste indeling van teksten is die van de jeugdafdeling in openbare bibliotheken, is de indeling voor leeftijdsopbouw en voor informatieve kinderboeken. Welke onderstaande tekens verwijzen naar ‘leeftijdsopbouw’?",
+    "options": {
+      "a": "‘A, B,C’",
+      "b": "‘I, II, II’",
+      "c": "‘1, 2, 3’"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 216,
+    "domain": 4,
+    "question": "Door op een speelse manier in groep 1 en 2 aandacht te besteden aan geletterdheid zal een kind zelf willen leren lezen, hoe noemen we dit?",
+    "options": {
+      "a": "Leesmotivatie",
+      "b": "Spreektechnieken",
+      "c": "Hardop lezen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 217,
+    "domain": 4,
+    "question": "De volgende aspecten; Uitspraak en articulatie, klemtoon, zinsmelodie, natuurlijkheid en emotionaliteit, tempo, volume, lezen van woordgroepen en lezen van interpunctie horen bij:",
+    "options": {
+      "a": "Voordracht aspecten",
+      "b": "Leestempo",
+      "c": "Technisch lezen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 218,
+    "domain": 4,
+    "question": "Een tekst snel kunnen lezen zonder dat je moet nadenken noem je?",
+    "options": {
+      "a": "Automatiseren",
+      "b": "Decoderen",
+      "c": "Tempo lezen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 219,
+    "domain": 4,
+    "question": "Wanneer je een tekst visueel aan het decoderen bent noem je dat, ",
+    "options": {
+      "a": "Leesproces",
+      "b": "Leerproces",
+      "c": "Technisch lezen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 220,
+    "domain": 4,
+    "question": "Als iemand niet kan meekomen in de samenleving vanwege een extreem laag leesniveau noem je dat:",
+    "options": {
+      "a": "Functioneel analfabeet",
+      "b": "Dyslexie",
+      "c": "Leesstoornis"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 221,
+    "domain": 4,
+    "question": "Waar wordt gebruik gemaakt van AVI-lezen maar staat de leesbeleving voorop?",
+    "options": {
+      "a": "BAVI-lezen",
+      "b": "Stil lezen",
+      "c": "Hardop lezen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 222,
+    "domain": 4,
+    "question": "Wat is het leestechnische niveau?",
+    "options": {
+      "a": "; Het niveau waarin teksten het meest worden ingedeeld.",
+      "b": "Het niveau waarin iedereen leest.",
+      "c": "Het bestaat niet."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 223,
+    "domain": 4,
+    "question": "Woordgebruik, zinsconstructie, tekstsoort, tekstinhoud, stijl, vormgeving en lengte moeten geschikt zijn voor?",
+    "options": {
+      "a": "Leesteksten",
+      "b": "Leesmotivatie",
+      "c": "Niveaubepaling"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 224,
+    "domain": 4,
+    "question": "Hoe noemen we de mate waarin een leerling gemotiveerd is om te leren lezen?",
+    "options": {
+      "a": "Leesmotivatie",
+      "b": "Leestechniek",
+      "c": "Leesmoeilijkheden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 225,
+    "domain": 4,
+    "question": "Welke aspecten zitten er allemaal bij de voordracht aspecten?",
+    "options": {
+      "a": "Uitspraak en articulatie, klemtoon, zinsmelodie, natuurlijkheid en emotionaliteit, tempo, volume, lezen van woordgroepen en lezen van interpunctie.",
+      "b": "Elementaire leeshandeling, Lezen met behulp van klankclusters en spellingpatronen.",
+      "c": "Lezen met behulp van morfologische analyse, lezen met behulp van de context."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 226,
+    "domain": 4,
+    "question": "Welke strategieën worden er gebruikt bij automatiserend lezen?",
+    "options": {
+      "a": "Visuele woordvorming en directe woordherkenning",
+      "b": "Decoderen",
+      "c": "Visuele woordvorming en decoderen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 227,
+    "domain": 4,
+    "question": "Wat zijn de drie bekendste theorieën over leesprocessen?",
+    "options": {
+      "a": "Het bottom-upmodel, Het top-downmodel, Het interactieve model",
+      "b": "Het bottum-topmodel, het interactieve model",
+      "c": "Het top-bottommodel, het upmodel, het interactieve model"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 228,
+    "domain": 4,
+    "question": "In paragraaf 4.3.5 van de Uitwerking kennisbasis Nederlands’ (herijkte versie) wordt nog over de ‘oude AVI - niveaus’ gesproken bij ‘Functioneel Analfabetisme’. Wat is het minimale AVI niveau dat iemand moet hebben wanneer hij de basisschool verlaat om niet als functioneel analfabeet bestempels te worden?",
+    "options": {
+      "a": "AVI-9",
+      "b": "AVI-7",
+      "c": "AVI-4"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 229,
+    "domain": 4,
+    "question": "Welke beschrijving hoort bij de leesstrategie ‘lezen met behulp van context’?",
+    "options": {
+      "a": "Sluit aan bij de top-down benadering en is alleen mogelijk indien de elementaire leeshandeling geautomatiseerd is.",
+      "b": "Sluit aan bij de top-down benadering, de lezer herkent direct morfemen of woorddelen in een woord.",
+      "c": "Sluit aan bij de bottom-up benadering en is alleen mogelijk indien de elementaire leeshandeling geautomatiseerd is."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 230,
+    "domain": 4,
+    "question": "Welke van onderstaande opties is GEEN bekende leesstrategie?",
+    "options": {
+      "a": "Lezen met kennis van woordbetekenis; De lezer herkent het woord direct aan de vorm, als een plaatje, en hoeft dit woord dus niet te decoderen. Dit kan ook bij woorden waarbij de vorm voor de lezer nog onbekend is, zoals bijvoorbeeld; aubergine.",
+      "b": "Lezen met behulp van klankclusters en spellingpatronen; De lezer herkent direct klankclusters, vaak voorkomende medeklinkercombinaties (zoals str of sch) en spellingpatronen, vaak voorkomende klinker- en medeklinkercombinaties (zoals aan of ok). De lezer hoeft hier dus niet grafeem voor grafeem te verklanken.",
+      "c": "Lezen met behulp van de visuele woordvorm of directe woordherkenning; De lezer herkent het woord direct aan de vorm, als een plaatje, en hoeft dit woord dus niet te decoderen. Geschikt voor veelvoorkomende woorden."
+    },
+    "correct_answer": "a"
+  }
+]

@@ -1,0 +1,1118 @@
+[
+  {
+    "id": 1,
+    "domain": 1,
+    "question": "Wat is het doel van de VVE?",
+    "options": {
+      "a": "Kinderen in achterstandsituaties extra stimuleren in hun taalontwikkeling",
+      "b": "Kinderen in de peuterspeelzalen voorbereiden op de basisschool",
+      "c": "Kinderen met andere moedertaal extra woordenschat aanleren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 2,
+    "domain": 1,
+    "question": "‘Wat is de hoofdstad van Frankrijk?’ is een voorbeeld van:",
+    "options": {
+      "a": "Reproducerende vraag",
+      "b": "Controlevraag",
+      "c": "Oplossingsgerichte vraag"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 3,
+    "domain": 1,
+    "question": "Het leren van de 2e taal na het 3e levensjaar noemen we:",
+    "options": {
+      "a": "Successieve taalverwerving",
+      "b": "Semi-synchrone taalverwerving",
+      "c": "Simultane taalverwerving"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 4,
+    "domain": 1,
+    "question": "Wat is kenmerkend voor een kind in de vroeglinguale periode?",
+    "options": {
+      "a": "Kind produceert uitingen in zgn. telegramstijl",
+      "b": "Kind produceert zelfstandige naamwoorden met lidwoorden",
+      "c": "Kind maakt veel fouten in de verledentijdsvormen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 5,
+    "domain": 1,
+    "question": "Wat verstaan we onder Cognitieve Academische Vaardigheid (CAT)?",
+    "options": {
+      "a": "Vaardigheid om taal op een abstract niveau te gebruiken",
+      "b": "Vaardigheid om taal in dagelijkse situaties te gebruiken",
+      "c": "Vaardigheid om schooltaal te gebruiken buiten de school"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 6,
+    "domain": 1,
+    "question": "In welke taalontwikkelingsfase zitten de kinderen in groep 1 en 2 van het basisonderwijs?",
+    "options": {
+      "a": "Differentiatiefase",
+      "b": "Voltooiingsfase",
+      "c": "Vroeglinguale periode"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 7,
+    "domain": 1,
+    "question": "De vraag ‘Hoe was je vakantie in Spanje?’ stimuleert het gebruik van de volgende cognitieve taalfunctie:",
+    "options": {
+      "a": "Rapporteren",
+      "b": "Projecteren",
+      "c": "Redeneren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 8,
+    "domain": 1,
+    "question": "Het begrip ‘taalachterstand’ wordt gebruikt in relatie tot: I Meertalige leerlingen met laag taalvaardigheidsniveau, II Nederlandse leerlingen uit sociaaleconomisch zwakkere milieus met laag taalvaardigheidsniveau",
+    "options": {
+      "a": "Zowel (I) als (II) is correct",
+      "b": "Noch (I) noch (II) is correct",
+      "c": "Alleen (I) is correct",
+      "d": "Alleen (II) is correct"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 9,
+    "domain": 1,
+    "question": "Wat toetst ‘Taal voor kleuters’?",
+    "options": {
+      "a": "Taalvaardigheid en leesvoorwaarden",
+      "b": "Deelvaardigheden voor het leren lezen",
+      "c": "Receptieve en productieve woordenschat in groepen 1 en 2"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 10,
+    "domain": 1,
+    "question": "Een leerling zegt: ‘Ik heb in de zee gezwemd’. De reactie van de leerkracht is: ‘Wat leuk, je hebt in de zee gezwommen.’ Dit is een voorbeeld van modeling waarbij de leerkracht expliciet het volgende aspect verbetert:",
+    "options": {
+      "a": "De vorm van de uiting",
+      "b": "De inhoud van de uiting",
+      "c": "Zowel de inhoud als de vorm van de uiting"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 11,
+    "domain": 2,
+    "question": "Wat betekent ‘categoriseren’?",
+    "options": {
+      "a": "Een woord verwijst naar een begrip",
+      "b": "Een woord verwijst naar een specifiek voorwerp",
+      "c": "Een woord verwijst naar een aantal verwante begrippen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 12,
+    "domain": 2,
+    "question": "Kennis van de woordenschat kan getest worden a.d.h.v. de TAK toets. Waar staat de afkorting TAK voor?",
+    "options": {
+      "a": "Taaltoets alle kinderen",
+      "b": "Taaltoets anderstalige kinderen",
+      "c": "Taalontwikkeling als kleutervaardigheid"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 13,
+    "domain": 2,
+    "question": "Wat is de functie van de woordenlijsten?",
+    "options": {
+      "a": "Leerkracht wordt bewust van de basiswoorden die kinderen moeten beheersen",
+      "b": "Leerkracht wordt bewust van wat er verwacht wordt vanuit de overheid (inspectie)",
+      "c": "Leerkracht wordt bewust van welke thema’s ze in de klas moet behandelen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 14,
+    "domain": 2,
+    "question": "Wat verstaan we onder Mentaal lexicon?",
+    "options": {
+      "a": "Representatie van woordkennis in het geheugen",
+      "b": "Representatie van abstracte begrippen",
+      "c": "Representatie van de relaties tussen woorden en begrippen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 15,
+    "domain": 2,
+    "question": "‘Desondanks’ is een voorbeeld van:",
+    "options": {
+      "a": "Signaalwoord",
+      "b": "Tussenwerpsel",
+      "c": "Inhoudswoord"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 16,
+    "domain": 2,
+    "question": "Een leerkracht legt de betekenis van het woord ‘presteren’ uit. De fase, die bij deze handeling hoort, heet:",
+    "options": {
+      "a": "Semantiseren",
+      "b": "Consolideren",
+      "c": "Voorbewerken"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 17,
+    "domain": 2,
+    "question": "Wat verstaan we onder receptieve woordenschat?",
+    "options": {
+      "a": "De woorden die kinderen begrijpen",
+      "b": "De woorden die kinderen begrijpen en gebruiken",
+      "c": "De woorden die kinderen nog moeten leren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 18,
+    "domain": 2,
+    "question": "Wat is / wat wordt bedoeld met ‘De viertakt van Verhallen’?",
+    "options": {
+      "a": "Didactisch model voor woordenschatuitbreiding",
+      "b": "Didactisch model voor betekenisordening",
+      "c": "Didactisch model voor categoriseren van woorden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 19,
+    "domain": 2,
+    "question": "Woordenschatonderwijs waarbij woordbetekenissen toevallig aan orde komen, noemen we:",
+    "options": {
+      "a": "Incidenteel woordenschatonderwijs",
+      "b": "Intentioneel woordenschatonderwijs",
+      "c": "Semi-incidenteel woordenschatonderwijs"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 20,
+    "domain": 2,
+    "question": "Wat is de juiste volgorde bij de verwerving van woordenschat?",
+    "options": {
+      "a": "Labelen, categoriseren, netwerkopbouw",
+      "b": "Categoriseren, labelen, netwerkopbouw",
+      "c": "Categoriseren, netwerkopbouw, labelen",
+      "d": "Netwerkopbouw, categoriseren, labelen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 21,
+    "domain": 3,
+    "question": "De leraar kan bij het hardop denken de leerlingen activeren om mee te denken. Een goed voorbeeld daarvan is:",
+    "options": {
+      "a": "interactief voorlezen",
+      "b": "het aanbieden van opzegversjes",
+      "c": "het aanleren van letters"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 22,
+    "domain": 3,
+    "question": "De term ‘aanvankelijk’ bij lees- en spellingsonderwijs verwijst naar de fase",
+    "options": {
+      "a": "waarin leerlingen het alfabetisch principe ontdekken en de elementaire lees- en spellinghandeling leren uitvoeren.",
+      "b": "waarin leerlingen het alfabetisch principe ontdekken",
+      "c": "waarin leerlingen het morfologisch principe ontdekken en de elementaire lees- en spellinghandeling leren uitvoeren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 23,
+    "domain": 3,
+    "question": "Ontluikende geletterdheid is de periode",
+    "options": {
+      "a": "waarin kinderen van 0-4 jaar kennismaken met de geschreven taal",
+      "b": "waarin kinderen van 4-6 jaar kennismaken met de geschreven taal",
+      "c": "waarin kinderen de eerste beginselen van het schrijven en lezen leren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 24,
+    "domain": 3,
+    "question": "Boekoriëntatie houdt in, dat",
+    "options": {
+      "a": "kinderen begrijpen hoe je met een boek omgaat en hoe een boek in elkaar zit",
+      "b": "kinderen het verhaaltje begrijpen, dat wordt voorgelezen",
+      "c": "kinderen de opbouw in verhaaltjes leren ontdekken"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 25,
+    "domain": 3,
+    "question": "Het woord “paddenstoel” is langer dan het woord “boom”. Dit toont aan, dat kinderen naar de vorm moeten kijken of luisteren in plaats van naar de betekenis. Dit noem je:",
+    "options": {
+      "a": "objectivatie",
+      "b": "synthese",
+      "c": "discriminatie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 26,
+    "domain": 3,
+    "question": "Met het opdelen van woorden in klankstukken stimuleer je het",
+    "options": {
+      "a": "fonologisch bewustzijn",
+      "b": "fonemisch bewustzijn",
+      "c": "visueel analyseren van woorden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 27,
+    "domain": 3,
+    "question": "Boekoriëntatie is één van de tussendoelen van:",
+    "options": {
+      "a": "beginnende geletterdheid",
+      "b": "ontluikende geletterdheid",
+      "c": "gevorderde geletterdheid"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 28,
+    "domain": 3,
+    "question": "Kenmerkend voor het interactief voorlezen is de interactie tussen leraar en leerlingen",
+    "options": {
+      "a": "voorafgaand, tijdens en na het voorlezen van de tekst",
+      "b": "voorafgaand aan de tekst",
+      "c": "tijdens en na het voorlezen van de tekst"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 29,
+    "domain": 3,
+    "question": "Leerlingen begrijpen dat illustraties en tekst samen een verhaal vertellen",
+    "options": {
+      "a": "Dit is een van de doelen van boekoriëntatie",
+      "b": "Dit is een van de doelen van leesbegrip",
+      "c": "Dit is een van de doelen van het alfabetisch principe"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 30,
+    "domain": 3,
+    "question": "Een voorbeeld van een klankzuiver woord is: kerst of traag",
+    "options": {
+      "a": "raap",
+      "b": "paard",
+      "c": "beer"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 31,
+    "domain": 3,
+    "question": "Bij het tussendoel Alfabetisch principe gaat het erom dat kinderen:",
+    "options": {
+      "a": "weten dat bij ieder klank een teken hoort",
+      "b": "het alfabet kunnen opzeggen",
+      "c": "klanken aan tekens kunnen koppelen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 32,
+    "domain": 3,
+    "question": "De eerste fase in de schrijfontwikkeling van kinderen is:",
+    "options": {
+      "a": "tekenen",
+      "b": "krabbelen",
+      "c": "ketens letterachtige vormen of letters"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 33,
+    "domain": 3,
+    "question": "Het hardop verklanken van letters is een hulpmiddel bij",
+    "options": {
+      "a": "visuele synthese",
+      "b": "auditieve synthese",
+      "c": "auditieve analyse"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 34,
+    "domain": 3,
+    "question": "De foneem-grafeemkoppeling",
+    "options": {
+      "a": "houdt in, dat klanken of fonemen corresponderen met letters of grafemen",
+      "b": "houdt in, dat een kind in staat is de letters aan de klanken te koppelen",
+      "c": "is hetzelfde als de elementaire leeshandeling"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 35,
+    "domain": 4,
+    "question": "Het lezen van woorden op –ig en op –lijk is een oefening op",
+    "options": {
+      "a": "morfologisch niveau",
+      "b": "fonologisch niveau",
+      "c": "semantisch niveau"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 36,
+    "domain": 4,
+    "question": "Radende lezers en spellende lezers",
+    "options": {
+      "a": "hebben meestal hetzelfde basisprobleem: de klank-letterkoppeling is onvoldoende",
+      "b": "hebben verschillende problemen. Een spellende lezer is teveel gericht op een juiste klank-letterkoppeling en een radende teveel op de betekenis van woorden/zinnen",
+      "c": "beide antwoorden zijn onjuist"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 37,
+    "domain": 4,
+    "question": "Welke bewering is juist?",
+    "options": {
+      "a": "een tekst met een vertrouwde context lees je makkelijker top-down dan een tekst over een onbekend onderwerp.",
+      "b": "een tekst met een vertrouwde context lees je moeilijker top-down dan een tekst over een onbekend onderwerp.",
+      "c": "of de context vertrouwd is of niet maakt niet uit bij het lezen van een top-downtekst."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 38,
+    "domain": 4,
+    "question": "Welke bewering is juist?",
+    "options": {
+      "a": "Bij de elementaire leeshandeling splits je een geschreven woord op in grafemen en koppelt daar de bijbehorende fonemen aan.",
+      "b": "Bij de elementaire leeshandeling splits je een geschreven woord op in grafemen en koppelt daar de bijbehorende morfemen aan.",
+      "c": "Bij de elementaire leeshandeling splits je een geschreven woord op in fonemen en koppelt daar de bijbehorende grafemen aan."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 39,
+    "domain": 4,
+    "question": "Bij BAVI-lezen staat de B voor:",
+    "options": {
+      "a": "beleving",
+      "b": "bouw",
+      "c": "BAVI-lezen bestaat helemaal niet"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 40,
+    "domain": 4,
+    "question": "Het Mattheuseffect beschrijft",
+    "options": {
+      "a": "dat kinderen die goed kunnen lezen naar verhouding steeds beter worden, terwijl kinderen die slecht kunnen lezen naar verhouding steeds slechter worden.",
+      "b": "dat kinderen die goed kunnen lezen op een hoog niveau beginnen en steeds langzamer verbeteren, terwijl kinderen die slecht kunnen lezen op een laag niveau beginnen en steeds sneller verbeteren.",
+      "c": "dat kinderen die goed kunnen lezen veel plezier hebben in lezen, terwijl kinderen die slecht kunnen lezen weinig tot geen plezier hebben in lezen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 41,
+    "domain": 4,
+    "question": "Het belangrijkste kenmerk van dyslexie is:",
+    "options": {
+      "a": "het kind heeft automatiseringsproblemen.",
+      "b": "het kind leest eentonig voor.",
+      "c": "het kind maakt weinig fouten, maar is langzaam."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 42,
+    "domain": 4,
+    "question": "Een functioneel analfabeet is niet in staat om:",
+    "options": {
+      "a": "een formulier in te vullen.",
+      "b": "klanken aan letters te koppelen.",
+      "c": "een eenvoudige zin te lezen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 43,
+    "domain": 4,
+    "question": "De vorm van een tekst wordt bepaald door:",
+    "options": {
+      "a": "taalgebruik en structuur.",
+      "b": "taalgebruik en thema.",
+      "c": "taalgebruik en doel."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 44,
+    "domain": 4,
+    "question": "Welk van de volgende teksten kan gezien worden als een directieve tekst?",
+    "options": {
+      "a": "een recept voor een appeltaart.",
+      "b": "een advertentie van KPN.",
+      "c": "een artikel over de verkiezingen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 45,
+    "domain": 4,
+    "question": "De drie aspecten die van belang zijn bij voordrachtslezen zijn:",
+    "options": {
+      "a": "tempo, zinsmelodie, lezen van interpunctie",
+      "b": "mimiek, stemgebruik, tempo",
+      "c": "zinsmelodie, lichaamshouding, duur"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 46,
+    "domain": 4,
+    "question": "Wat is de juiste volgorde van stappen binnen de elementaire leeshandeling voordat het kind betekenis aan woord kan toekennen?",
+    "options": {
+      "a": "Eerst visueel analyseren, dan fonemen koppelen aan grafemen en daarna auditief synthetiseren.",
+      "b": "Eerst auditief synthetiseren, dan visueel analyseren en daarna fonemen koppelen aan grafemen.",
+      "c": "Eerst fonemen koppelen aan grafemen, dan auditief synthetiseren en daarna visueel analyseren."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 47,
+    "domain": 4,
+    "question": "Welke bewering is juist?",
+    "options": {
+      "a": "Voor zwakke lezers gelden dezelfde leesnormen als voor goede lezers.",
+      "b": "Voor zwakke lezers gelden lagere leesnormen dan voor goede lezers.",
+      "c": "Voor zwakke lezers gelden hogere leesnormen dan voor goede lezers."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 48,
+    "domain": 5,
+    "question": "Hoeveel procent van de woorden moeten leerlingen minimaal beheersen om een tekst goed te kunnen begrijpen?",
+    "options": {
+      "a": "90 %",
+      "b": "80 %",
+      "c": "70 %"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 49,
+    "domain": 5,
+    "question": "De belangrijkste 3 punten voor tekstbegrip zijn",
+    "options": {
+      "a": "woordenschat, kennis van de wereld en technisch voldoende leesniveau",
+      "b": "woordenschat, zinsbegrip en technisch voldoende leesniveau",
+      "c": "leesmotivatie, kennis van de wereld en woordenschat"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 50,
+    "domain": 5,
+    "question": "Een stappenplan voor begrijpend lezen is",
+    "options": {
+      "a": "een hulpmiddel voor de leerling om zelfstandig keuzes te maken in de wijze waarop hij een tekst aanpakt.",
+      "b": "een hulpmiddel voor de leerkracht om een leesvoorbereiding voor begrijpend lezen te maken.",
+      "c": "een verplichte volgorde van stappen die de leerling moet doorlopen bij het lezen van een tekst."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 51,
+    "domain": 5,
+    "question": "Het directe instructiemodel voor begrijpend lezen bestaat uit de volgende 3 fasen:",
+    "options": {
+      "a": "uitleggen en voordoen, oefening en begeleiding, verwerking of toepassing",
+      "b": "tekst lezen en vragen laten stellen, vragen maken, feedback geven",
+      "c": "uitleggen en voordoen, tekst lezen en bespreken, oefening en begeleiding"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 52,
+    "domain": 5,
+    "question": "Welke van de volgende woordparen klopt?",
+    "options": {
+      "a": "poëzie en strofe, proza en alinea, lied en couplet",
+      "b": "poëzie en couplet, proza en alinea, lied en strofe",
+      "c": "poëzie en alinea, proza en strofe, lied en couplet"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 53,
+    "domain": 5,
+    "question": "Van welke van de drie functies van taal wordt in de volgende uiting gebruik gemaakt? 'De hond heeft mijn huiswerk opgegeten en dat vind ik niet cool.' In deze uiting wordt gebruik gemaakt van",
+    "options": {
+      "a": "conceptualisering en expressie.",
+      "b": "expressie en communicatie.",
+      "c": "conceptualisering en communicatie."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 54,
+    "domain": 5,
+    "question": "Bij perceptieve informatieverwerking",
+    "options": {
+      "a": "komt informatie via de zintuigen beschikbaar.",
+      "b": "koppel je nieuwe informatie aan bestaande kennis.",
+      "c": "creëer je nieuwe kennis."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 55,
+    "domain": 5,
+    "question": "Door na te denken over zijn eigen leesgedrag, kan de leerling zijn leesgedrag:",
+    "options": {
+      "a": "sturen, controleren en evalueren.",
+      "b": "doorgronden, op waarde schatten en aanpassen.",
+      "c": "begrijpen, uitleggen en voordoen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 56,
+    "domain": 5,
+    "question": "Wat is de relatie tussen begrijpend lezen en voortgezet technisch lezen?",
+    "options": {
+      "a": "De relatie is wederzijds.",
+      "b": "Voortgezet technisch lezen bevordert begrijpend lezen.",
+      "c": "Begrijpend lezen bevordert voortgezet technisch lezen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 57,
+    "domain": 5,
+    "question": "Het kiezen van de juiste tekst is cruciaal voor:",
+    "options": {
+      "a": "de leesmotivatie.",
+      "b": "het tekstbegrip.",
+      "c": "het leesplezier."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 58,
+    "domain": 6,
+    "question": "Als leerlingen een brief mee naar huis krijgen waarop alles staat uitgelegd over het schoolreisje is de belangrijkste doelstelling van deze tekst:",
+    "options": {
+      "a": "informeren",
+      "b": "overtuigen",
+      "c": "instrueren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 59,
+    "domain": 6,
+    "question": "Reviseren van een tekst, doe je in elk geval:",
+    "options": {
+      "a": "na afloop van het schrijven",
+      "b": "voor je begint: bij het maken van je schrijfplan",
+      "c": "tijdens het schrijven"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 60,
+    "domain": 6,
+    "question": "Directieve teksten zijn:",
+    "options": {
+      "a": "teksten waarin wordt beschreven hoe een bepaalde handeling of procedure moet worden uitgevoerd.",
+      "b": "teksten waarin schrijvers hun mening geven over een gebeurtenis of situatie",
+      "c": "teksten waarin schrijvers proberen de opvattingen van lezers met argumenten te beïnvloeden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 61,
+    "domain": 6,
+    "question": "Een studieboek is een voorbeeld van een",
+    "options": {
+      "a": "informatieve tekst",
+      "b": "informerende tekst",
+      "c": "beschouwende tekst"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 62,
+    "domain": 6,
+    "question": "De conceptualiserende functie van het schrijven houdt in:",
+    "options": {
+      "a": "dat de schrijver probeert greep te krijgen op de werkelijkheid en dat hij die werkelijkheid wil benoemen",
+      "b": "dat de schrijver uiting wil geven aan zijn gevoelens en verlangens",
+      "c": "dat de schrijver een bepaald doel bij de lezer wil bereiken"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 63,
+    "domain": 6,
+    "question": "Een ‘doetekst’ is een:",
+    "options": {
+      "a": "directieve tekst",
+      "b": "informatieve tekst",
+      "c": "beschouwende tekst"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 64,
+    "domain": 6,
+    "question": "Welke structuur past het best bij een ‘doetekst’:",
+    "options": {
+      "a": "stapelstructuur",
+      "b": "verhaalstructuur",
+      "c": "betoogstructuur"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 65,
+    "domain": 6,
+    "question": "Het werken met een plan van aanpak is een voorbeeld van",
+    "options": {
+      "a": "denkend schrijven",
+      "b": "vertellend schrijven",
+      "c": "denkend en vertellend schrijven"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 66,
+    "domain": 6,
+    "question": "Een opdracht ‘schrijf een opstel over de cavia’",
+    "options": {
+      "a": "biedt onvoldoende houvast, omdat er niets bekend is over tekstsoort, doel en publiek.",
+      "b": "biedt voldoende houvast voor de leerling die een cavia heeft, maar onvoldoende voor leerlingen, die weinig van dieren weten.",
+      "c": "biedt voldoende houvast, omdat de leerkracht eerst met de klas een woordweb zou moeten maken over de cavia."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 67,
+    "domain": 6,
+    "question": "Als de leraar uitlegt, wat voor tekst de leerlingen moeten schrijven, draait het om:",
+    "options": {
+      "a": "het product.",
+      "b": "het proces.",
+      "c": "een goede uitleg."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 68,
+    "domain": 7,
+    "question": "Een kind krijgt een cavia en omdat hij wil weten hoe hij zijn cavia moet verzorgen, gaat hij op zoek naar een boekje over cavia’s. Dit is een goed voorbeeld van:",
+    "options": {
+      "a": "het bepalen van het leesdoel",
+      "b": "het ontwikkelen van een literaire smaak",
+      "c": "het bepalen van genres",
+      "d": "het bepalen van het niveau"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 69,
+    "domain": 7,
+    "question": "Kinderen van 2-4 jaar zitten wat hun leesontwikkeling betreft in",
+    "options": {
+      "a": "de Piet de Smeerpoetsfase",
+      "b": "de sprookjesfase",
+      "c": "de heldenleeftijd"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 70,
+    "domain": 7,
+    "question": "De jeugdbibliotheek hanteert een indeling in A, B, C-boeken. C-boeken zijn bedoeld voor kinderen",
+    "options": {
+      "a": "van 11 jaar en ouder",
+      "b": "van 6-8 jaar",
+      "c": "van de middelbare school",
+      "d": "10 jaar en ouder"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 71,
+    "domain": 7,
+    "question": "Boeken kunnen voor kinderen veel betekenen. Van Coillie onderscheidt zes basisfuncties van boeken. Een van deze basisfuncties is:",
+    "options": {
+      "a": "de esthetische functie",
+      "b": "de concentratiefunctie",
+      "c": "de inhoudelijke functie",
+      "d": "de recursieve functie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 72,
+    "domain": 7,
+    "question": "De prijs, die aangeeft, welk boek de Nederlandse jeugd het best vindt, is",
+    "options": {
+      "a": "de kinderjury-prijs",
+      "b": "de gouden griffel",
+      "c": "de zilveren griffel"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 73,
+    "domain": 7,
+    "question": "Literaire genres zijn teksten die tot dezelfde groep kunnen worden gerekend. Genres kunnen op verschillende manieren worden ingedeeld. Welke genre-indeling is gebaseerd op de doelstelling van de teksten?",
+    "options": {
+      "a": "verhalende teksten en informatieve teksten",
+      "b": "prentenboeken, informatieve teksten, poëzie",
+      "c": "proza, drama, poëzie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 74,
+    "domain": 7,
+    "question": "Eén van de functies van jeugdliteratuur is",
+    "options": {
+      "a": "een therapeutische functie.",
+      "b": "een creatieve functie.",
+      "c": "een didactische functie."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 75,
+    "domain": 7,
+    "question": "Welke van onderstaande tussendoelen komen aan bod bij het interactief voorlezen?",
+    "options": {
+      "a": "de relatie tussen gesproken en geschreven taal",
+      "b": "de elementaire leeshandeling",
+      "c": "het alfabetisch principe"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 76,
+    "domain": 7,
+    "question": "Welke van de volgende auteurs zijn bekend vanwege hun kindergedichten?",
+    "options": {
+      "a": "Annie MG Schmidt, Ted van Lieshout, Willem Wilmink",
+      "b": "Dick Bruna, Arend van Dam, Lydia Rood",
+      "c": "Paul Biegel, Thea Beckman, Paul van Loon"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 77,
+    "domain": 7,
+    "question": "Met het lezen van gedichten kun je pas beginnen in de middenbouw. Voor kleuters is dit tekstgenre te moeilijk.",
+    "options": {
+      "a": "onjuist",
+      "b": "juist",
+      "c": "dit tekstgenre is niet te moeilijk voor kleuters, maar niet aantrekkelijk voor hen."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 78,
+    "domain": 7,
+    "question": "Een personage in een verhaal, dat karakterontwikkeling doormaakt, wordt",
+    "options": {
+      "a": "een ‘round character’ genoemd.",
+      "b": "een ‘flat character’ genoemd.",
+      "c": "een karikatuur genoemd."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 79,
+    "domain": 7,
+    "question": "Een boek dat de gouden griffel wint, had even daarvoor al de",
+    "options": {
+      "a": "zilveren griffel verdiend",
+      "b": "de vlag en wimpel verdiend",
+      "c": "de prijs van de Nederlandse kinderjury verdiend"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 80,
+    "domain": 7,
+    "question": "Het perspectief is",
+    "options": {
+      "a": "het gezichtspunt van waaruit het verhaal verteld wordt",
+      "b": "de rode lijn in het verhaal",
+      "c": "de hoofdgedachte van waaruit het verhaal verteld wordt"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 81,
+    "domain": 7,
+    "question": "Narratologie bestudeert",
+    "options": {
+      "a": "het vertellen van verhalen",
+      "b": "het voorlezen van verhalen",
+      "c": "het luisteren naar verhalen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 82,
+    "domain": 8,
+    "question": "“Door te analyseren én te vergelijken kun je talige kenmerken onderbrengen in categorieën” is de omschrijving voor de strategie:",
+    "options": {
+      "a": "classificeren",
+      "b": "generaliseren",
+      "c": "herordenen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 83,
+    "domain": 8,
+    "question": "Als een kind de betekenis achterhaalt van “onaardig” door het woord in betekenisvolle delen te splitsen, is er sprake van:",
+    "options": {
+      "a": "classificeren",
+      "b": "analyseren",
+      "c": "relateren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 84,
+    "domain": 8,
+    "question": "De moeilijkheidsgraad van een register wordt bepaald door onder andere zinsniveau en woordniveau. Een derde criterium is:",
+    "options": {
+      "a": "articulatorisch niveau",
+      "b": "spellingniveau",
+      "c": "akoestisch niveau"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 85,
+    "domain": 8,
+    "question": "Als een leerling een sms’je verstuurt aan zijn vriend, maakt hij gebruik van zijn",
+    "options": {
+      "a": "informele en formele register",
+      "b": "formele register",
+      "c": "informele register"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 86,
+    "domain": 8,
+    "question": "Het verschil tussen dialect en standaardtaal is voor een belangrijk deel een verschil in:",
+    "options": {
+      "a": "status",
+      "b": "grammatica",
+      "c": "aangeboren vermogen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 87,
+    "domain": 8,
+    "question": "Met syntactische noties heeft de taalbeschouwer gereedschap in handen om",
+    "options": {
+      "a": "de juiste formuleringen te kiezen",
+      "b": "ontdekkingen te doen in de taalsystematiek",
+      "c": "met anderen te communiceren"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 88,
+    "domain": 8,
+    "question": "Kennis van woordsoorten is ook van belang voor",
+    "options": {
+      "a": "begrijpend lezen",
+      "b": "belevend lezen",
+      "c": "technisch lezen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 89,
+    "domain": 8,
+    "question": "Een leraar ‘modeleert’ bij taalbeschouwing. Dit betekent dat hij:",
+    "options": {
+      "a": "de denkprocessen hardop voordoet",
+      "b": "de regels geeft hoe het moet",
+      "c": "de goede antwoorden bespreekt"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 90,
+    "domain": 8,
+    "question": "Tijdens een les zegt een kind “hun hebben me genept.” De docent gaat vervolgens in op dit taalgebruik. Er is dan sprake van:",
+    "options": {
+      "a": "incidenteel taalbeschouwingonderwijs",
+      "b": "inconfidentieel taalbeschouwingonderwijs",
+      "c": "intentioneel taalbeschouwingonderwijs"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 91,
+    "domain": 8,
+    "question": "De stelling: “voor grammaticaonderwijs worden vooral methodeafhankelijk toetsen gebruikt”,",
+    "options": {
+      "a": "klopt niet, want er wordt op scholen een Cito-toets gebruikt",
+      "b": "klopt, elke school zelf mag de keuze maken of er een Cito-toets, of er een methodetoets wordt gebruikt.",
+      "c": "klopt, methoden en scholen erg verschillen in gebruikte termen en typen en/of woordsoorten."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 92,
+    "domain": 9,
+    "question": "Voor het schrijven van leenwoorden kun je het beste gebruik maken van",
+    "options": {
+      "a": "woordbeeldstrategie",
+      "b": "fonologische strategie",
+      "c": "regelstrategie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 93,
+    "domain": 9,
+    "question": "Als een kind het woord ‘vertrouwelijk’ moet schrijven, kun je het beste gebruik maken van:",
+    "options": {
+      "a": "de analogiestrategie",
+      "b": "de woordbeeldstrategie",
+      "c": "de fonologiestrategie"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 94,
+    "domain": 9,
+    "question": "Een docent laat de kinderen oefenen met een woordrijtje met woorden die eindigen op ‘-eeuw’. Dit is een oefening in:",
+    "options": {
+      "a": "spellingpatronen",
+      "b": "achtervoegsels (suffixen)",
+      "c": "klankclusters"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 95,
+    "domain": 9,
+    "question": "Een positieve spellingattitude (spellingbewustzijn) kan worden gestimuleerd door",
+    "options": {
+      "a": "leerlingen veel gelegenheid te geven om eigen teksten te schrijven",
+      "b": "leerlingen veel opstellen te laten schrijven met een vooraf gegeven onderwerp",
+      "c": "leerlingen veel te complimenteren ook al zijn er spellingfouten gemaakt"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 96,
+    "domain": 9,
+    "question": "Oefeningen die gaan over het in het meervoud zetten van zelfstandige naamwoorden zijn oefeningen over:",
+    "options": {
+      "a": "semi-veranderlijke woorden",
+      "b": "onveranderlijke woorden",
+      "c": "veranderlijke woorden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 97,
+    "domain": 9,
+    "question": "Interpunctie speelt vooral een belangrijke rol bij:",
+    "options": {
+      "a": "belevend lezen",
+      "b": "aanvankelijk-technisch lezen",
+      "c": "studerend lezen"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 98,
+    "domain": 9,
+    "question": "De basis van de Nederlandse spelling is",
+    "options": {
+      "a": "het fonologisch principe",
+      "b": "het etymologisch principe",
+      "c": "het morfologisch principe"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 99,
+    "domain": 9,
+    "question": "‘Flitsen’ is het meest geschikt bij woorden die geschreven worden volgens het:",
+    "options": {
+      "a": "etymologisch principe",
+      "b": "syllabisch principe",
+      "c": "morfologisch principe"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 100,
+    "domain": 9,
+    "question": "Een voorbeeld van een dictee dat verschil in de vorm waarin ze worden aangeboden is",
+    "options": {
+      "a": "een kerndictee",
+      "b": "een oefendictee",
+      "c": "een visueel-auditief dictee"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 101,
+    "domain": 9,
+    "question": "Als een leerling ‘peen’ schrijft in plaats van ‘been’, noem je dat een",
+    "options": {
+      "a": "oriëntatiefout",
+      "b": "materiaalfout",
+      "c": "fonetische fout"
+    },
+    "correct_answer": "a"
+  }
+]
